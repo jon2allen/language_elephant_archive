@@ -1,0 +1,114 @@
+Here’s a detailed evaluation of the LLM translation compared to the canonical Arabic version of **Article 3**, based on the provided criteria:
+
+---
+
+### **1. Fidelity (Accuracy to Original Meaning)**
+**Score: 6/10**
+**Justification:**
+- The LLM translation captures the core idea but introduces **semantic shifts** and **omissions**:
+  - **"The principle of all sovereignty resides essentially in the Nation"**:
+    - Canonical: *"مبدأ السيادة الوطني ينتمي أساساً إلى الأمة"* (focuses on the "principle of national sovereignty").
+    - LLM: *"إن مبدأ كل السيادة يقع本质上 في الأمة"* (literal but awkward; "كل السيادة" = "all sovereignty" is redundant, as "sovereignty" is inherently absolute).
+    - The LLM’s use of *"يقع"* ("resides") is less precise than *"ينتمي"* ("belongs to"), which better reflects the philosophical ownership of sovereignty.
+  - **"No body nor individual may exercise any authority..."**:
+    - Canonical: *"لا يمكن لأي فرد أو هيئة أن تمارس سلطة لا تنبع بوضوح من الأمة"* ("clearly" is omitted in LLM).
+    - LLM: *"لا جسم ولا فرد يمكنهما ممارسة أي سلطة لا تنبع مباشرة من الأمة"* ("جسم" is an unidiomatic translation of "body"; "هيئة" is more natural in legal Arabic).
+    - The LLM omits *"بوضوح"* ("clearly"), which weakens the legal certainty of the original.
+
+**Overall Assessment:**
+The LLM translation is **structurally faithful** but **lacks precision** in legal terminology and philosophical nuance. It reads like a **word-for-word translation** rather than a polished legal text.
+
+**Recommendations:**
+- Replace *"كل السيادة"* with *"السيادة"* (redundancy).
+- Use *"هيئة"* instead of *"جسم"* for "body" (legal term).
+- Restore *"بوضوح"* ("clearly") for legal clarity.
+- Prefer *"ينتمي"* over *"يقع"* for ownership connotation.
+
+---
+
+### **2. Language Comprehension (Naturalness & Grammar)**
+**Score: 5/10**
+**Justification:**
+- **Grammatical Issues**:
+  - *"إن مبدأ كل السيادة يقع本质上 في الأمة"*: The phrase *"يقع本质上"* is **unnatural**; *"本质上"* is a **Chinese term** (meaning "essentially") mistakenly left untranslated. The correct Arabic would be *"أساساً"* or *"بشكل جوهري"*.
+  - *"لا جسم ولا فرد يمكنهما ممارسة..."*: The dual verb *"يمكنهما"* is incorrect here because *"جسم"* and *"فرد"* are singular in meaning (should be *"يمكن لأي جسم أو فرد أن يمارس..."*).
+- **Idiomatic Flaws**:
+  - *"كل السيادة"* is **redundant** in Arabic; *"السيادة"* alone suffices.
+  - *"جسم"* is **not the standard legal term** for "body" (e.g., a corporate entity); *"هيئة"* is preferred.
+  - The LLM’s phrasing sounds **stilted** and **non-native**, especially in legal contexts.
+
+**Overall Assessment:**
+The translation **fails to meet Arabic legal-linguistic standards**. It reads like a **machine translation** with **unresolved loanwords** (e.g., Chinese) and **grammatical errors**.
+
+**Recommendations:**
+- Replace *"يقع本质上"* with *"ينتمي أساساً"*.
+- Use *"هيئة"* instead of *"جسم"*.
+- Correct the verb agreement (*"يمكن أن يمارس"* instead of *"يمكنهما"*).
+- Avoid redundancy (*"كل السيادة"* → *"السيادة"*).
+
+---
+
+### **3. Intent Preservation (Legal-Philosophical Nuance)**
+**Score: 4/10**
+**Justification:**
+- The original text establishes **two key principles**:
+  1. **Sovereignty is vested in the Nation** (not the state, ruler, or individuals).
+  2. **All authority must derive from the Nation** (no arbitrary power).
+- The LLM translation **weakens these nuances**:
+  - **"Principle of sovereignty"**:
+    - Canonical: *"مبدأ السيادة الوطني"* (emphasizes the **national** character of sovereignty).
+    - LLM: *"مبدأ كل السيادة"* (loses the "national" qualifier; "كل" is redundant).
+  - **"Essentially"**:
+    - Canonical: *"أساساً"* (implies sovereignty is **fundamentally** the Nation’s).
+    - LLM: *"本质上"* (untranslated; if rendered as *"بشكل جوهري"*, it’s still less precise than *"أساساً"*).
+  - **"Clearly"**:
+    - The omission of *"بوضوح"* dilutes the **legal certainty** that authority must be **explicitly** derived from the Nation.
+
+**Overall Assessment:**
+The LLM translation **misses the constitutional gravity** of the original. It reduces a **foundational legal principle** to a **generic statement** about authority.
+
+**Recommendations:**
+- Restore *"الوطني"* to emphasize **national sovereignty**.
+- Use *"أساساً"* instead of *"بشكل جوهري"* for legal precision.
+- Reinsert *"بوضوح"* to reinforce **explicit derivation of authority**.
+
+---
+
+### **4. Novel/Incorrect Deviations**
+**List of Errors:**
+1. **Untranslated Term**: *"本质上"* (Chinese for "essentially") left in the Arabic text.
+2. **Redundancy**: *"كل السيادة"* instead of *"السيادة"*.
+3. **Incorrect Legal Term**: *"جسم"* instead of *"هيئة"* for "body" (legal entity).
+4. **Grammatical Error**: *"يمكنهما"* (dual verb) for singular subjects (*"جسم"* and *"فرد"*).
+5. **Omission**: *"بوضوح"* ("clearly") is missing.
+6. **Semantic Shift**: *"يقع"* instead of *"ينتمي"* for "resides" (weakens ownership connotation).
+7. **Loss of Nuance**: *"الوطني"* ("national") omitted from *"مبدأ السيادة الوطني"*.
+
+---
+
+### **Overall Assessment of Translation Quality**
+**Rating: Poor (4/10)**
+- The LLM translation is **technically understandable** but **lacks legal precision, natural flow, and philosophical depth**.
+- It reads like a **draft translation** with **unresolved errors** (e.g., Chinese term left in Arabic, grammatical mistakes).
+- **Key legal concepts are diluted** (e.g., omission of "clearly," redundancy in "all sovereignty").
+
+---
+
+### **Final Recommendations for Improvement**
+1. **Terminology**:
+   - Use *"السيادة الوطنية"* instead of *"كل السيادة"*.
+   - Replace *"جسم"* with *"هيئة"*.
+   - Use *"أساساً"* instead of *"本质上"*.
+2. **Grammar**:
+   - Correct verb agreement: *"لا يمكن لأي هيئة أو فرد أن يمارس..."*.
+3. **Nuance**:
+   - Restore *"بوضوح"* for legal clarity.
+   - Prefer *"ينتمي"* over *"يقع"* for sovereignty’s ownership.
+4. **Style**:
+   - Avoid redundancy (*"كل السيادة"* → *"السيادة"*).
+   - Ensure all terms are **fully translated** (no foreign words left in Arabic).
+
+**Suggested Corrected Translation:**
+> *"مبدأ السيادة الوطنية ينتمي أساساً إلى الأمة، ولا يمكن لأي هيئة أو فرد أن يمارس سلطة لا تنبع بوضوح من الأمة."*
+
+This version **matches the canonical text** in fidelity, language, and intent.

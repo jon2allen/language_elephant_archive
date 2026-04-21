@@ -1,0 +1,95 @@
+Here’s a detailed evaluation of the **LLM translation** compared to the **canonical original** of Article 7, based on the four criteria:
+
+---
+
+### **1. Fidelity (Accuracy to Original Meaning)**
+**Score: 8/10**
+**Justification:**
+- The LLM translation captures the core legal principles of the original but introduces minor deviations:
+  - **"No person shall be accused, arrested, or imprisoned"** → **"لا يجوز لأحد أن يتهم، أو يُعتقل، أو يُسجن"**
+    - *Issue*: The original uses passive voice ("يُتهم، يُعتقل، يُحبس"), which is more formal and aligns with legal Arabic conventions. The LLM’s active voice ("لا يجوز لأحد أن") is grammatically correct but less precise in legal tone.
+  - **"Any one soliciting, transmitting, executing, or causing to be executed"** → **"أي شخص يطلب أو ينقل أو ينفذ أو يجعل تنفذ"**
+    - *Issue*: The LLM omits the nuance of "soliciting" (يستحث/يطلب بشكل ملح), replacing it with "يطلب" (requests), which is weaker. "Causing to be executed" is translated as "يجعل تنفذ" (makes it executed), which is accurate but less elegant than the original’s "يتسبب في تنفيذ".
+  - **"Resistance constitutes an offense"** → **"المقاومة تشكل جريمة"**
+    - *Issue*: The original ("يكون مذنبًا") implies guilt (a legal term), while the LLM’s "تشكل جريمة" (constitutes a crime) is broader and less precise.
+
+**Overall Assessment:**
+The LLM translation is largely faithful but sacrifices some legal precision for readability. Key omissions (e.g., "soliciting") and tone shifts (active vs. passive voice) reduce fidelity.
+
+**Recommendation:**
+- Restore passive voice for legal formality (e.g., "لا يُتهم أحد").
+- Use "يستحث" for "soliciting" and "يتسبب في تنفيذ" for "causing to be executed."
+- Replace "تشكل جريمة" with "يكون مذنبًا" to match the original’s legal nuance.
+
+---
+
+### **2. Language Comprehension (Naturalness & Grammar)**
+**Score: 9/10**
+**Justification:**
+- The translation is grammatically correct and idiomatic, with no major errors:
+  - **"دون تأخير"** (without delay) is a natural equivalent of "فورًا."
+  - **"سيُعاقب"** (shall be punished) is a valid alternative to the original’s "يجب أن يُعاقب."
+- Minor stylistic issues:
+  - **"يجعل تنفذ أمرًا تعسفيًا"** is grammatically correct but awkward. The original’s "يتسبب في تنفيذ" flows better.
+  - **"حيث أن المقاومة تشكل جريمة"** is slightly wordy. The original’s "وهو يكون مذنبًا إذا قاوم" is more concise.
+
+**Overall Assessment:**
+The LLM translation is highly readable and natural, though it occasionally prioritizes clarity over legal elegance.
+
+**Recommendation:**
+- Simplify "يجعل تنفذ" to "يتسبب في تنفيذ."
+- Replace "حيث أن" with "إذ" for conciseness.
+
+---
+
+### **3. Intent Preservation (Legal-Philosophical Nuance)**
+**Score: 7/10**
+**Justification:**
+- The LLM preserves the **core intent** (protection from arbitrary detention, punishment for enforcing unlawful orders, and the duty to comply with lawful arrests) but weakens some nuances:
+  - **Arbitrariness**: The original’s "أمر تعسفي" (arbitrary order) is preserved, but the LLM’s phrasing ("أي شخص يطلب أو ينقل...") dilutes the emphasis on the *act* of enforcing arbitrariness.
+  - **Legal Duty**: The original’s "يجب أن يُطيع فورًا" (must obey immediately) is stronger than the LLM’s "يجب أن يمتثل دون تأخير" (must comply without delay). "Obedience" (طاعة) carries a more authoritative tone than "compliance" (امتثال).
+  - **Guilt**: The original’s "يكون مذنبًا" (is guilty) is a legal term, while "تشكل جريمة" (constitutes a crime) is a broader statement.
+
+**Overall Assessment:**
+The LLM captures the spirit of the article but softens the legal-philosophical weight of terms like "obedience" and "guilt."
+
+**Recommendation:**
+- Restore "يجب أن يُطيع فورًا" for stronger legal authority.
+- Use "يكون مذنبًا" instead of "تشكل جريمة" to align with legal terminology.
+
+---
+
+### **4. Novel/Incorrect Deviations**
+**Additions/Omissions:**
+1. **"No person" → "لا يجوز لأحد"**
+   - *Issue*: The original’s passive voice is more legally precise. The LLM’s active voice is not incorrect but less formal.
+2. **"Soliciting" → "يطلب"**
+   - *Issue*: "Soliciting" implies active instigation, while "يطلب" (requests) is neutral.
+3. **"Causing to be executed" → "يجعل تنفذ"**
+   - *Issue*: The LLM’s phrasing is grammatically correct but less elegant.
+4. **"Resistance constitutes an offense" → "المقاومة تشكل جريمة"**
+   - *Issue*: The original’s "يكون مذنبًا" (is guilty) is a legal term; the LLM’s "تشكل جريمة" is broader.
+
+**No major incorrect deviations**, but the LLM’s choices occasionally dilute legal precision.
+
+---
+
+### **Overall Assessment of Translation Quality**
+**Score: 8/10**
+The LLM translation is **highly competent** but not flawless. It prioritizes **readability and naturalness** over **legal precision**, which may be acceptable for general audiences but could be problematic in formal legal contexts. The deviations are minor but cumulatively weaken the translation’s fidelity to the original’s authoritative tone.
+
+### **Final Recommendations for Improvement**
+1. **Restore passive voice** for legal formality (e.g., "لا يُتهم أحد").
+2. **Use stronger legal terms**:
+   - "يستحث" for "soliciting."
+   - "يتسبب في تنفيذ" for "causing to be executed."
+   - "يكون مذنبًا" instead of "تشكل جريمة."
+3. **Simplify phrasing**:
+   - Replace "يجعل تنفذ" with "يتسبب في تنفيذ."
+   - Use "إذ" instead of "حيث أن" for conciseness.
+4. **Preserve the original’s authoritative tone** (e.g., "يجب أن يُطيع فورًا").
+
+**Suggested Revised Translation:**
+> لا يُتهم أحد، ولا يُعتقل، ولا يُحبس إلا في الحالات وعلى الوجه الذي يحدده القانون. ومن يستحث أو ينقل أو ينفذ أو يتسبب في تنفيذ أمر تعسفي يُعاقب. ولكن كل مواطن يُستدعى أو يُقبض عليه بموجب القانون يجب أن يُطيع فورًا، إذ يكون مذنبًا إذا قاوم.
+
+This revision improves **fidelity, legal precision, and intent preservation** while maintaining natural Arabic.

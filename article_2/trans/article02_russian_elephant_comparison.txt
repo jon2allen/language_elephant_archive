@@ -1,0 +1,85 @@
+Here’s a detailed evaluation of the LLM translation compared to the canonical Russian version of **Article 2** of the *Declaration of the Rights of Man and of the Citizen (1789)*:
+
+---
+
+### **1. Fidelity (Accuracy of Meaning)**
+**Score: 7/10**
+**Justification:**
+- **"Сохранение" (preservation) vs. "обеспечение" (ensuring/protection):**
+  The original uses *"обеспечение"* (ensuring, safeguarding), which implies active protection, while *"сохранение"* (preservation) suggests passive maintenance. The latter weakens the proactive legal-philosophical intent.
+- **"Непреложных" (inviolable) vs. "неотъемлемых" (inalienable):**
+  Both are correct, but *"неотъемлемых"* (inalienable) is the canonical term in Russian legal texts, aligning with the original’s emphasis on rights that cannot be revoked. *"Непреложных"* is archaic and less precise.
+- **"Сопротивление оскорблению" (resistance to insult) vs. "сопротивление угнетению" (resistance to oppression):**
+  *"Оскорбление"* (insult) is a **critical mistranslation**. The original refers to *oppression* (systemic injustice), not personal insult. This alters the legal meaning entirely.
+- **"Право на сопротивление" (right to resistance) vs. "сопротивление" (resistance):**
+  The LLM adds *"право на"* (right to), which is redundant—*"сопротивление"* alone suffices as a right in the original.
+
+**Overall:** The LLM captures the general idea but introduces inaccuracies that distort the legal-philosophical precision of the original.
+
+---
+
+### **2. Language Comprehension (Naturalness & Grammar)**
+**Score: 8/10**
+**Justification:**
+- **Grammar/Idiomaticity:**
+  The LLM translation is grammatically correct and mostly natural. For example:
+  - *"Цель любого политического объединения"* (Goal of any political union) is smoother than the original’s *"Цель всякого политического союза"* (Goal of every political union), though both are acceptable.
+  - *"Эти права — свобода..."* (These rights are freedom...) is concise and clear.
+- **Style:**
+  The LLM avoids archaic phrasing (e.g., *"таковыми являются"* in the original) in favor of modern Russian, which improves readability but may lose some legal gravitas.
+- **Minor Issues:**
+  - *"Сопротивление оскорблению"* sounds unnatural in Russian legal discourse (see above).
+
+**Overall:** The translation is fluent and idiomatic but sacrifices some legal formality.
+
+---
+
+### **3. Intent Preservation (Legal-Philosophical Nuances)**
+**Score: 6/10**
+**Justification:**
+- **Key Nuances Lost:**
+  - *"Обеспечение"* (ensuring) vs. *"сохранение"* (preservation): The original implies a duty to *actively protect* rights, while the LLM’s version suggests *maintaining* them, which is weaker.
+  - *"Угнетению"* (oppression) vs. *"оскорблению"* (insult): The core idea of resisting systemic injustice is replaced with a personal offense, undermining the revolutionary intent.
+  - *"Неотъемлемых"* (inalienable) is the canonical term in Russian legal philosophy (e.g., used in the 1993 Russian Constitution). *"Непреложных"* is less precise and rarely used in this context.
+- **Additions:**
+  - *"Право на"* before *"сопротивление"* is unnecessary and dilutes the original’s directness.
+
+**Overall:** The LLM translation fails to preserve the revolutionary and legal weight of the original, particularly in its mistranslation of *"oppression"* and use of non-canonical terms.
+
+---
+
+### **4. Novel/Incorrect Deviations**
+| **Original**               | **LLM Translation**               | **Issue**                                                                 |
+|----------------------------|-----------------------------------|---------------------------------------------------------------------------|
+| обеспечение (ensuring)     | сохранение (preservation)         | Weakens active protection to passive maintenance.                         |
+| неотъемлемых (inalienable) | непреложных (inviolable)          | Less precise; not the canonical term in Russian legal texts.              |
+| сопротивление угнетению    | сопротивление оскорблению         | **Critical error**: Replaces systemic oppression with personal insult.    |
+| свобода, собственность...  | свобода, собственность...         | Correct, but the addition of *"право на"* before *"сопротивление"* is redundant. |
+
+---
+
+### **Overall Assessment of Translation Quality**
+**Rating: 6.5/10 (Fair, but with significant errors)**
+The LLM translation is **grammatically sound and readable** but **fails to capture the legal-philosophical precision** of the original. The most egregious error is the mistranslation of *"oppression"* as *"insult,"* which fundamentally distorts the meaning. The use of non-canonical terms (*"непреложных," "сохранение"*) further weakens its fidelity to the source.
+
+---
+
+### **Recommendations for Improvement**
+1. **Restore Canonical Terms:**
+   - Replace *"сохранение"* with *"обеспечение"* (ensuring/protection).
+   - Replace *"непреложных"* with *"неотъемлемых"* (inalienable).
+   - Remove *"право на"* before *"сопротивление"* (redundant).
+
+2. **Correct the Critical Error:**
+   - Replace *"сопротивление оскорблению"* with *"сопротивление угнетению"* (resistance to oppression).
+
+3. **Preserve Legal Style:**
+   - Consider keeping *"таковыми являются"* (as such are) for formal consistency with the original, though *"эти права —"* is also acceptable.
+
+4. **Avoid Modernizations That Lose Nuance:**
+   - *"Всякого"* (every) is slightly more formal than *"любого"* (any) and better matches the original’s tone.
+
+**Improved Translation:**
+*"Цель всякого политического союза — обеспечение естественных и неотъемлемых прав человека. Таковыми являются свобода, собственность, безопасность и сопротивление угнетению."*
+
+This version aligns with the original’s **legal precision, philosophical intent, and canonical Russian terminology**.

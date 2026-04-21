@@ -1,0 +1,107 @@
+Here’s a detailed evaluation of the **LLM translation** compared to the **canonical original** of Article 2, based on the specified criteria:
+
+---
+
+### **1. Fidelity (Accuracy of Meaning)**
+**Score: 8/10**
+**Justification:**
+- **Accurate Core Meaning**: The LLM translation captures the essence of the original, including the four rights (Liberty, Property, Safety, Resistance to Oppression).
+- **Key Deviations**:
+  - **"الغاية من كل جمعية سياسية" (purpose of every political association)** → **"الهدف من كل ارتباط سياسي" (goal of every political association/affiliation)**.
+    - *"ارتباط"* (affiliation/association) is slightly narrower than *"جمعية"* (association), which in legal contexts implies a more formal or institutional grouping. However, the difference is subtle.
+  - **"الحقوق الطبيعية وغير القابلة للتقادم" (natural and imprescriptible rights)** → **"الحقوق الطبيعية وغير القابلة للتصرف" (natural and inalienable rights)**.
+    - *"غير القابلة للتقادم"* (imprescriptible, i.e., not subject to expiration) is legally precise, while *"غير القابلة للتصرف"* (inalienable) is a close but not identical concept. "Imprescriptible" emphasizes permanence over time, whereas "inalienable" emphasizes non-transferability. The original French (*imprescriptibles*) aligns with the former.
+  - **"مقاومة الظلم" (resistance to oppression/injustice)** → **"المقاومة للاضطهاد" (resistance to persecution/oppression)**.
+    - *"الظلم"* (injustice/oppression) is broader than *"الاضطهاد"* (persecution), which implies systematic targeting (e.g., religious or political persecution). The original French (*oppression*) is closer to *"الظلم"*.
+
+**Overall Assessment**:
+The LLM translation is largely faithful but introduces minor shifts in legal nuance (e.g., "inalienable" vs. "imprescriptible") and specificity (e.g., "persecution" vs. "oppression").
+
+**Recommendation**:
+- Replace *"غير القابلة للتصرف"* with *"غير القابلة للتقادم"* to match the original’s legal intent.
+- Use *"الظلم"* instead of *"الاضطهاد"* for broader alignment with the French *oppression*.
+
+---
+
+### **2. Language Comprehension (Naturalness & Grammar)**
+**Score: 9/10**
+**Justification**:
+- **Grammar/Syntax**: The LLM translation is grammatically flawless, with correct noun-adjective agreement (e.g., *"الحقوق الطبيعية"*) and proper use of prepositions (*"للإنسان"*).
+- **Idiomaticity**:
+  - *"الهدف من"* is natural, though *"الغاية من"* (original) is slightly more formal and elevated, which suits legal texts.
+  - *"الممتلكات"* (properties) is a valid translation of *"Property"* but is narrower than *"الملكية"* (ownership), which encompasses both tangible and intangible rights. The original’s *"الملكية"* is more comprehensive.
+  - *"الأمان"* (safety/security) is a common synonym for *"الأمن"*, but the latter is more formal and legally precise.
+- **Clarity**: The translation is clear and accessible, though the original’s phrasing is more authoritative.
+
+**Overall Assessment**:
+The LLM translation reads naturally but could adopt more formal/legal register (e.g., *"الأمن"* over *"الأمان"*) and broader terms (e.g., *"الملكية"* over *"الممتلكات"*).
+
+**Recommendation**:
+- Use *"الأمن"* instead of *"الأمان"* for legal precision.
+- Revert to *"الملكية"* to cover all forms of property rights.
+
+---
+
+### **3. Intent Preservation (Legal-Philosophical Nuance)**
+**Score: 7/10**
+**Justification**:
+- **Philosophical Nuance**:
+  - The original frames rights as *"natural and imprescriptible"*, emphasizing their timeless, inherent nature. The LLM’s *"natural and inalienable"* shifts the focus to non-transferability, which is a different (though related) concept.
+  - *"Resistance to Oppression"* (*مقاومة الظلم*) is a foundational revolutionary principle (e.g., in the French Declaration of the Rights of Man). The LLM’s *"المقاومة للاضطهاد"* narrows this to persecution, which may exclude broader forms of systemic injustice.
+- **Legal Tone**:
+  - The original’s *"الحفاظ على"* (preservation) is more active and protective than the LLM’s *"حماية"* (protection), which is slightly more passive.
+  - The original’s structure (*"هذه الحقوق هي..."*) is more declarative and authoritative, while the LLM’s colon (*"هذه الحقوق هي:"*) is grammatically correct but less emphatic.
+
+**Overall Assessment**:
+The LLM translation preserves the core intent but dilutes some of the original’s revolutionary and legal gravitas. The nuances of "imprescriptible" and "oppression" are particularly important in this context.
+
+**Recommendation**:
+- Restore *"غير القابلة للتقادم"* and *"الظلم"* to align with the original’s philosophical depth.
+- Use *"الحفاظ على"* instead of *"حماية"* for a more active tone.
+
+---
+
+### **4. Novel/Incorrect Deviations**
+**Additions**:
+- None (the LLM does not add extraneous content).
+
+**Omissions**:
+- None (all key terms are translated).
+
+**Divergent Meanings**:
+1. **"غير القابلة للتقادم" → "غير القابلة للتصرف"**
+   - *Issue*: "Imprescriptible" (not subject to expiration) vs. "inalienable" (cannot be transferred). The original emphasizes permanence, not transferability.
+2. **"الملكية" → "الممتلكات"**
+   - *Issue*: "Property" in legal contexts includes both tangible and intangible rights (e.g., intellectual property). *"الممتلكات"* refers primarily to tangible assets.
+3. **"الظلم" → "الاضطهاد"**
+   - *Issue*: "Oppression" is broader than "persecution," which implies targeted, often identity-based harm.
+4. **"الغاية" → "الهدف"**
+   - *Issue*: *"الغاية"* (purpose/end) is more philosophical, while *"الهدف"* (goal) is more utilitarian. The original’s tone is elevated.
+
+---
+
+### **Overall Translation Quality**
+**Strengths**:
+- Grammatically correct and natural.
+- Faithful to the core meaning of the four rights.
+- No omissions or additions.
+
+**Weaknesses**:
+- Minor but critical shifts in legal/philosophical nuance (e.g., "imprescriptible" → "inalienable").
+- Some terms are narrower than the original (e.g., *"الممتلكات"* vs. *"الملكية"*).
+- Less authoritative tone in places.
+
+**Final Score**: **8/10** (Good, but not excellent for legal purposes).
+
+---
+
+### **Recommended Improved Translation**
+**الغاية من كل جمعية سياسية هي الحفاظ على الحقوق الطبيعية وغير القابلة للتقادم للإنسان. وهذه الحقوق هي الحرية والملكية والأمن ومقاومة الظلم.**
+
+**Key Improvements**:
+1. Restored *"غير القابلة للتقادم"* for legal precision.
+2. Reverted to *"الملكية"* for broader coverage of property rights.
+3. Used *"الظلم"* to match the original’s scope of "oppression."
+4. Maintained *"الحفاظ على"* and *"الغاية من"* for active, philosophical tone.
+
+This version aligns more closely with the original’s intent, register, and legal nuances.

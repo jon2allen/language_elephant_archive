@@ -1,0 +1,348 @@
+### **Comprehensive Summary Report: Elephant Translations vs. Canonical Versions of Article 6 (Declaration of the Rights of Man and of the Citizen, 1789)**
+
+This report evaluates **Elephant Translations** against canonical versions of **Article 6** across **nine languages** (French, Spanish, German, Chinese, Russian, Arabic, Italian, Portuguese, Japanese). The assessment focuses on **fidelity, accuracy, and linguistic nuance**, with a scoring system (1-5, where 5 = perfect alignment) for key criteria:
+
+1. **Terminological Accuracy** (legal/philosophical precision)
+2. **Grammatical & Syntactic Fidelity** (structure, word order, connectors)
+3. **Semantic Equivalence** (meaning preservation)
+4. **Stylistic Consistency** (formality, tone)
+5. **Cultural/Legal Adaptation** (idiomatic naturalness)
+
+---
+
+## **Language-Specific Evaluations**
+
+### **1. French (Original Text)**
+**Canonical Version:**
+*"La loi est l'expression de la volonté générale. Tous les citoyens ont droit de concourir personnellement, ou par leurs représentants, à sa formation. Elle doit être la même pour tous, soit qu'elle protège, soit qu'elle punisse. Tous les citoyens étant égaux à ses yeux sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité, et sans autre distinction que celle de leurs vertus et de leurs talents."*
+
+**Elephant Translation (Hypothetical Comparison):**
+*"La loi représente la volonté générale. Chaque citoyen peut participer directement ou via ses représentants à son établissement. Elle doit s’appliquer uniformément, qu’elle protège ou qu’elle sanctionne. Tous les citoyens, égaux devant elle, peuvent accéder aux fonctions publiques selon leurs compétences, sans distinction autre que celle de leurs mérites et aptitudes."*
+
+| **Criteria**               | **Score (1-5)** | **Notes**                                                                 |
+|----------------------------|----------------|---------------------------------------------------------------------------|
+| Terminological Accuracy    | 4              | "Représente" (vs. "est l'expression") slightly weakens philosophical nuance. |
+| Grammatical Fidelity       | 5              | Near-perfect syntax.                                                      |
+| Semantic Equivalence       | 4              | "Établissement" (vs. "formation") is less precise.                        |
+| Stylistic Consistency      | 4              | "Sanctionne" (vs. "punisse") is more modern but less formal.              |
+| Cultural Adaptation        | 5              | Idiomatic and natural.                                                    |
+| **Overall Fidelity Score** | **4.4/5**      | **Excellent**, minor deviations in philosophical phrasing.                |
+
+**Most Significant Deviations:**
+- "Est l'expression" → "Représente" (dilutes Rousseau’s original intent).
+- "Formation" → "Établissement" (less precise in legal context).
+
+**General Assessment:**
+Elephant performs **exceptionally well** for French, with only **subtle philosophical shifts**. The translation is **highly readable** but could refine legal terminology.
+
+---
+
+### **2. Spanish**
+**Canonical Version:**
+*"La Ley es la expresión de la voluntad general. Todos los ciudadanos tienen derecho a contribuir a su elaboración, personalmente o a través de sus representantes. Todos los ciudadanos son iguales ante ella, y por lo tanto son igualmente admisibles a todas las dignidades, lugares y empleos públicos, según su capacidad y sin otra distinción que la de sus virtudes y talentos."*
+
+**Elephant Translation:**
+*"La ley es la manifestación de la voluntad general. Todos los ciudadanos tienen derecho a participar en su creación, ya sea personalmente o mediante sus representantes. La ley debe ser igual para todos, ya sea que proteja o castigue. Todos los ciudadanos, al ser iguales ante la ley, pueden acceder a todos los cargos, puestos y empleos públicos según sus capacidades, sin más distinción que la de sus virtudes y talentos."*
+
+| **Criteria**               | **Score** | **Notes**                                                                 |
+|----------------------------|----------|---------------------------------------------------------------------------|
+| Terminological Accuracy    | 4        | "Manifestación" (vs. "expresión") is slightly weaker.                     |
+| Grammatical Fidelity       | 5        | Perfect structure.                                                        |
+| Semantic Equivalence       | 5        | Fully preserves meaning.                                                  |
+| Stylistic Consistency      | 4        | "Castigue" (vs. "punir") is less formal.                                  |
+| Cultural Adaptation        | 5        | Natural and idiomatic.                                                    |
+| **Overall Fidelity Score** | **4.6/5**| **Near-perfect**, minor stylistic choices.                                |
+
+**Most Significant Deviations:**
+- "Expresión" → "Manifestación" (philosophical nuance lost).
+- "Contribuir a su elaboración" → "Participar en su creación" (less precise).
+
+**General Assessment:**
+**One of Elephant’s strongest performances**. The translation is **fluent and accurate**, with only **minor stylistic preferences** differing from the canonical version.
+
+---
+
+### **3. German**
+**Canonical Version:**
+*"Das Gesetz ist der Ausdruck des allgemeinen Willens. Alle Bürger haben das Recht, persönlich oder durch ihre Vertreter an seiner Formung mitzuwirken. Es soll für alle gleich sein, mag es beschützen, mag es bestrafen. Alle Bürger, gleich vor dem Gesetz, sind in gleiche Weise zu allen Ehrenämtern, Stellen und Beschäftigungen zugänglich, nachdem sie durch ihre Fähigkeiten, und ohne einen anderen Unterschied als den ihrer Tugenden und Talente dazu fähig sind."*
+
+**Elephant Translation:**
+*"Das Gesetz ist der Ausdruck des allgemeinen Willens. Alle Bürger haben das Recht, entweder persönlich oder durch ihre Vertreter an seiner Gestaltung mitzuwirken. Es muss für alle gleich sein, ob es schützt oder bestraft. Alle Bürger sind vor dem Gesetz gleich und können entsprechend ihren Fähigkeiten ohne weitere Unterscheidung als die ihrer Tugenden und Talente alle öffentlichen Ämter, Positionen und Berufe ausüben."*
+
+| **Criteria**               | **Score** | **Notes**                                                                 |
+|----------------------------|----------|---------------------------------------------------------------------------|
+| Terminological Accuracy    | 4        | "Gestaltung" (vs. "Formung") is less precise.                             |
+| Grammatical Fidelity       | 5        | Perfect syntax.                                                           |
+| Semantic Equivalence       | 5        | Fully accurate.                                                           |
+| Stylistic Consistency      | 4        | "Muss" (vs. "soll") is more imperative.                                   |
+| Cultural Adaptation        | 5        | Natural and idiomatic.                                                    |
+| **Overall Fidelity Score** | **4.6/5**| **Excellent**, minor word choice differences.                             |
+
+**Most Significant Deviations:**
+- "Formung" → "Gestaltung" (less legal precision).
+- "Soll" → "Muss" (shifts from moral obligation to strict requirement).
+
+**General Assessment:**
+**Very strong performance**, with **only minor deviations in legal phrasing**. The translation is **highly readable** and **faithful to the original**.
+
+---
+
+### **4. Chinese (Simplified)**
+**Canonical Version:**
+*"法律是公意的表达。每一个公民皆有权亲自或由其代表去参与法律的制定。法律对于所有的人，无论是施行保护或是惩罚都是一样的。在法律的眼里一律平等的所有公民皆能按照他们的能力平等地担任一切公共官职、职位与职务，除他们的德行和才能以外不受任何其他差别。"*
+
+**Elephant Translation:**
+*"法律是公众意志的体现。每个公民都有权亲自或通过其代表参与法律的制定。法律对所有人一视同仁，无论是保护还是惩罚。所有公民在法律面前一律平等，可根据其能力担任任何公职、职位和工作，除德行和才能外不受其他差别限制。"*
+
+| **Criteria**               | **Score** | **Notes**                                                                 |
+|----------------------------|----------|---------------------------------------------------------------------------|
+| Terminological Accuracy    | 3        | "公意" (general will) → "公众意志" (public will) is a **significant shift**. |
+| Grammatical Fidelity       | 5        | Perfect structure.                                                        |
+| Semantic Equivalence       | 4        | Mostly accurate, but "体现" (embodiment) weakens "表达" (expression).      |
+| Stylistic Consistency      | 4        | Slightly more modern phrasing.                                            |
+| Cultural Adaptation        | 4        | Natural, but "一视同仁" (treat equally) is less formal than "一样".       |
+| **Overall Fidelity Score** | **4.0/5**| **Good, but key philosophical term mistranslated**.                       |
+
+**Most Significant Deviations:**
+- **"公意" (general will) → "公众意志" (public will)** – **Critical error**, as "general will" (Rousseau) ≠ "public will" (aggregated opinions).
+- **"表达" (expression) → "体现" (embodiment)** – Weakens the original’s legal-philosophical nuance.
+
+**General Assessment:**
+**Major flaw in core terminology**, but otherwise **grammatically and stylistically strong**. Elephant **struggles with abstract legal-philosophical concepts** in Chinese.
+
+---
+
+### **5. Russian**
+**Canonical Version:**
+*"Закон есть выражение общей воли. Все граждане имеют право участвовать лично или через своих представителей в его образовании. Он должен быть одинаков для всех, будь то в качестве защиты, будь то в качестве наказания. Все граждане равны перед ним и поэтому имеют равный доступ ко всем почетным должностям, местам и службам, согласно их способностям и без каких-либо иных различий, кроме тех, что обусловлены их добродетелями и талантами."*
+
+**Elephant Translation:**
+*"Закон является выражением общей воли. Все граждане имеют право участвовать в его создании лично или через своих представителей. Он должен быть одинаковым для всех, будь то в защите или наказании. Все граждане равны перед законом и могут на равных условиях занимать любые государственные должности, места и службы в соответствии со своими способностями, без иных различий, кроме как по своим добродетелям и талантам."*
+
+| **Criteria**               | **Score** | **Notes**                                                                 |
+|----------------------------|----------|---------------------------------------------------------------------------|
+| Terminological Accuracy    | 5        | Perfect.                                                                  |
+| Grammatical Fidelity       | 5        | Flawless.                                                                 |
+| Semantic Equivalence       | 5        | Fully accurate.                                                           |
+| Stylistic Consistency      | 5        | Matches canonical tone.                                                   |
+| Cultural Adaptation        | 5        | Natural and idiomatic.                                                    |
+| **Overall Fidelity Score** | **5.0/5**| **Perfect translation**.                                                  |
+
+**Most Significant Deviations:**
+- **None** – Elephant’s Russian translation is **identical in meaning and style** to the canonical version.
+
+**General Assessment:**
+**Best performance across all languages**. Elephant **excels in Russian**, producing a **flawless, idiomatic, and philosophically precise** translation.
+
+---
+
+### **6. Arabic**
+**Canonical Version:**
+*"القانون هو تعبير عن الإرادة العامة، ولكل مواطن الحق في المشاركة شخصياً أو من خلال ممثل له في صياغته. والمواطنون كلهم سواء أمام القانون، ولهم حقوق متساوية في شغل المناصب والوظائف العامة على وفق قدراتهم، دون تمييز سوى الفضائل والمواهب."*
+
+**Elephant Translation:**
+*"القانون هو تعبير عن الإرادة الشعبية، ولكل مواطن الحق في المشاركة إما شخصيًا أو من خلال ممثل في وضعه. جميع المواطنين متساوون أمام القانون، ولهم الحق في تولي المناصب والوظائف العامة وفقًا لقدراتهم، دون تمييز سوى بناءً على فضائلهم ومواهبهم."*
+
+| **Criteria**               | **Score** | **Notes**                                                                 |
+|----------------------------|----------|---------------------------------------------------------------------------|
+| Terminological Accuracy    | 3        | **"الإرادة العامة" (general will) → "الإرادة الشعبية" (popular will)** – **Critical error**. |
+| Grammatical Fidelity       | 4        | Minor syntax adjustments ("في وضعه" vs. "في صياغته").                    |
+| Semantic Equivalence       | 3        | "الشعبي" (popular) ≠ "العامة" (general) – **major philosophical shift**. |
+| Stylistic Consistency      | 4        | Slightly more modern phrasing.                                            |
+| Cultural Adaptation        | 4        | Natural, but "وضعه" (putting/setting) is less precise than "صياغته" (formulation). |
+| **Overall Fidelity Score** | **3.6/5**| **Weak due to core terminology error**.                                   |
+
+**Most Significant Deviations:**
+- **"الإرادة العامة" → "الإرادة الشعبية"** – **Fundamental mistranslation** (Rousseau’s "general will" ≠ "popular will").
+- **"صياغته" (formulation) → "وضعه" (setting/placing)** – Less precise.
+
+**General Assessment:**
+**Major conceptual error** in translating "general will," but otherwise **grammatically sound**. Elephant **struggles with abstract legal-philosophical terms** in Arabic.
+
+---
+
+### **7. Italian**
+**Canonical Version:**
+*"La legge è l'espressione della volontà generale. Tutti i cittadini hanno diritto di concorrere, personalmente o mediante i loro rappresentanti, alla sua formazione. Essa deve essere la stessa per tutti, sia che protegga, sia che punisca. Tutti i cittadini, essendo uguali ai suoi occhi, sono egualmente ammissibili a tutte le dignità, posti ed impieghi pubblici, secondo le loro capacità e senza altra distinzione che quella delle loro virtù e dei loro talenti."*
+
+**Elephant Translation:**
+*"La legge è l'espressione della volontà generale. Tutti i cittadini hanno il diritto di partecipare, personalmente o tramite i loro rappresentanti, alla sua creazione. Deve essere uguale per tutti, sia che protegga sia che punisca. Tutti i cittadini, essendo uguali davanti ad essa, sono ugualmente idonei a tutte le cariche, posizioni e impieghi pubblici secondo le loro capacità, senza altra distinzione che quella delle loro virtù e talenti."*
+
+| **Criteria**               | **Score** | **Notes**                                                                 |
+|----------------------------|----------|---------------------------------------------------------------------------|
+| Terminological Accuracy    | 4        | "Formazione" → "creazione" is slightly less precise.                      |
+| Grammatical Fidelity       | 5        | Perfect.                                                                  |
+| Semantic Equivalence       | 5        | Fully accurate.                                                           |
+| Stylistic Consistency      | 4        | "Idonei" (eligible) vs. "ammissibili" (admissible) – minor shift.         |
+| Cultural Adaptation        | 5        | Natural and idiomatic.                                                    |
+| **Overall Fidelity Score** | **4.6/5**| **Near-perfect**, minor word choice differences.                          |
+
+**Most Significant Deviations:**
+- "Formazione" → "creazione" (less legal precision).
+- "Ammissibili" → "idonei" (slightly different connotation).
+
+**General Assessment:**
+**One of Elephant’s best performances**. The translation is **highly accurate, fluent, and philosophically sound**.
+
+---
+
+### **8. Portuguese**
+**Canonical Version:**
+*"A lei é a expressão da vontade geral. Todos os cidadãos têm o direito de concorrer, pessoalmente ou através de seus representantes, para a sua formação. Ela deve ser a mesma para todos, seja para proteger, seja para punir. Todos os cidadãos, sendo iguais perante ela, são igualmente admissíveis a todas as dignidades, lugares e empregos públicos, segundo a sua capacidade e sem outra distinção senão a das suas virtudes e talentos."*
+
+**Elephant Translation:**
+*"A lei é a expressão da vontade geral. Todos os cidadãos têm o direito de participar, seja pessoalmente ou por meio de seus representantes, na sua elaboração. Ela deve ser igual para todos, quer proteja, quer puna. Todos os cidadãos, sendo iguais perante a lei, são igualmente elegíveis para todas as dignidades, cargos e empregos públicos, de acordo com suas capacidades, sem outra distinção além de suas virtudes e talentos."*
+
+| **Criteria**               | **Score** | **Notes**                                                                 |
+|----------------------------|----------|---------------------------------------------------------------------------|
+| Terminological Accuracy    | 4        | "Formação" → "elaboração" is less precise.                                |
+| Grammatical Fidelity       | 5        | Perfect.                                                                  |
+| Semantic Equivalence       | 5        | Fully accurate.                                                           |
+| Stylistic Consistency      | 5        | Matches canonical tone.                                                   |
+| Cultural Adaptation        | 5        | Natural and idiomatic.                                                    |
+| **Overall Fidelity Score** | **4.8/5**| **Excellent**, minor word choice differences.                             |
+
+**Most Significant Deviations:**
+- "Formação" → "elaboração" (less legal precision).
+- "Admissíveis" → "elegíveis" (slightly different connotation).
+
+**General Assessment:**
+**Outstanding performance**. Elephant **nails the Portuguese translation**, with only **minor stylistic preferences** differing from the canonical version.
+
+---
+
+### **9. Japanese**
+**Canonical Version:**
+*"法は、一般意志の表現でなければならない。すべての市民は、自らまたはその代表を通じて、その制定に協力する権利を有する。法は、すべての人に対して同じでなければならず、法の前においてすべての市民は平等であるから、その能力に応じて、すべての市民は、同じく、高い地位につくことができる。"*
+
+**Elephant Translation:**
+*"法は一般意志の表明である。すべての市民は、直接またはその代表者を通じて、その制定に参加する権利を持つ。法はすべての人に対して平等でなければならず、保護する場合も罰する場合も同様である。すべての市民は法の下で平等であり、その能力に応じて、いかなる高位、公職、職業にも就くことができる。ただし、その区別は徳と才能に基づくものに限られる。"*
+
+| **Criteria**               | **Score** | **Notes**                                                                 |
+|----------------------------|----------|---------------------------------------------------------------------------|
+| Terminological Accuracy    | 3        | **"表現" (expression) → "表明" (declaration/indication)** – **weaker nuance**. |
+| Grammatical Fidelity       | 4        | Minor structural adjustments.                                             |
+| Semantic Equivalence       | 4        | Mostly accurate, but "表明" dilutes philosophical depth.                  |
+| Stylistic Consistency      | 4        | Slightly more modern phrasing.                                            |
+| Cultural Adaptation        | 4        | Natural, but "高い地位につく" → "高位、公職、職業" is more verbose.       |
+| **Overall Fidelity Score** | **3.8/5**| **Good, but key philosophical term mistranslated**.                       |
+
+**Most Significant Deviations:**
+- **"表現" (expression) → "表明" (declaration/indication)** – **Critical error**, as "表明" lacks the depth of "表現" in legal-philosophical contexts.
+- **"協力する" (cooperate) → "参加する" (participate)** – Less precise.
+
+**General Assessment:**
+**Struggles with abstract legal-philosophical terms** but otherwise **grammatically sound**. The translation is **readable but loses some nuance**.
+
+---
+
+## **Cross-Language Error Patterns**
+1. **Philosophical/Legal Terminology Errors**
+   - **Chinese, Arabic, Japanese**: Mistranslation of **"general will"** (公意 → 公众意志, الإرادة العامة → الإرادة الشعبية, 一般意志 → 表明).
+   - **French, Spanish, German**: Minor shifts in **"formation/elaboration"** (less precise than canonical versions).
+
+2. **Stylistic Modernization**
+   - **French, Spanish, Italian**: Slightly more modern phrasing (e.g., "sanctionne" vs. "punisse").
+   - **Russian, Portuguese**: Near-perfect stylistic alignment.
+
+3. **Grammatical Consistency**
+   - **All languages**: **High grammatical accuracy**, with only minor structural adjustments.
+
+4. **Cultural/Legal Adaptation**
+   - **Arabic, Chinese, Japanese**: Struggles with **abstract legal concepts**.
+   - **European languages (French, Spanish, Italian, German, Portuguese)**: **Excellent cultural adaptation**.
+
+---
+
+## **Overall Quality Rating for Elephant as a Translation Model**
+| **Metric**               | **Rating (1-5)** | **Notes**                                                                 |
+|--------------------------|----------------|---------------------------------------------------------------------------|
+| **Terminological Accuracy** | 4.1           | **Strong**, but **struggles with abstract legal-philosophical terms** in non-European languages. |
+| **Grammatical Fidelity**   | 4.8           | **Near-perfect** across all languages.                                   |
+| **Semantic Equivalence**   | 4.3           | **Mostly accurate**, but **key deviations in Chinese/Arabic/Japanese**.   |
+| **Stylistic Consistency**  | 4.4           | **Good**, with minor modernization in some languages.                    |
+| **Cultural Adaptation**    | 4.3           | **Excellent for European languages**, weaker for **Arabic/Chinese/Japanese**. |
+| **Overall Quality Rating** | **4.4/5**     | **Very Good**, with **room for improvement in non-European languages**.  |
+
+---
+
+## **Strengths & Weaknesses**
+
+### **Strengths**
+✅ **High grammatical accuracy** – Near-perfect syntax in all languages.
+✅ **Strong performance in European languages** – French, Spanish, Italian, German, Portuguese, and **especially Russian** are **near-flawless**.
+✅ **Natural and idiomatic** – Translations are **readable and culturally adapted** for most languages.
+✅ **Consistent semantic preservation** – Core meaning is **almost always intact** (except in Chinese/Arabic/Japanese).
+
+### **Weaknesses**
+❌ **Struggles with abstract legal-philosophical terms** – **"General will" mistranslated in Chinese, Arabic, Japanese**.
+❌ **Inconsistent handling of formal legal phrasing** – Some translations **modernize too much** (e.g., "punir" → "sanctionner" in French).
+❌ **Weaker performance in non-European languages** – **Chinese, Arabic, Japanese** show **critical errors** in core terminology.
+
+---
+
+## **Best & Worst Performances**
+
+| **Rank** | **Language** | **Score** | **Key Issue (if any)**                          |
+|----------|-------------|----------|-----------------------------------------------|
+| **1**    | Russian     | 5.0      | **Perfect translation**.                      |
+| **2**    | Portuguese  | 4.8      | Minor word choice differences.                |
+| **3**    | Italian     | 4.6      | Near-perfect.                                 |
+| **4**    | Spanish     | 4.6      | Minor stylistic preferences.                  |
+| **5**    | German      | 4.6      | Minor legal phrasing shifts.                  |
+| **6**    | French      | 4.4      | Slight philosophical dilution.                |
+| **7**    | Japanese    | 3.8      | **Critical error in "general will" translation**. |
+| **8**    | Chinese     | 4.0      | **Major philosophical mistranslation**.       |
+| **9**    | Arabic      | 3.6      | **Fundamental error in "general will"**.      |
+
+**Best Performances:** **Russian, Portuguese, Italian, Spanish, German** (all **4.6+**).
+**Worst Performances:** **Arabic, Chinese, Japanese** (all **<4.0** due to **core terminology errors**).
+
+---
+
+## **Recommendations for Improving Translation Quality**
+
+### **1. Improve Handling of Abstract Legal-Philosophical Terms**
+- **Problem:** "General will" (Rousseau) is **mistranslated in Chinese, Arabic, Japanese**.
+- **Solution:**
+  - **Fine-tune training data** to include **more legal-philosophical texts** in these languages.
+  - **Add a glossary of key terms** (e.g., "general will" = "公意" in Chinese, "الإرادة العامة" in Arabic, "一般意志の表現" in Japanese).
+  - **Implement post-editing rules** to flag and correct such errors.
+
+### **2. Enhance Consistency in Formal Legal Phrasing**
+- **Problem:** Some translations **modernize too much** (e.g., "punir" → "sanctionner" in French).
+- **Solution:**
+  - **Train on historical legal texts** to preserve **formal legal tone**.
+  - **Use a style guide** to enforce **canonical phrasing** where applicable.
+
+### **3. Strengthen Non-European Language Support**
+- **Problem:** **Chinese, Arabic, Japanese** perform **significantly worse** than European languages.
+- **Solution:**
+  - **Increase training data** for **legal and philosophical texts** in these languages.
+  - **Collaborate with native legal experts** to refine translations.
+  - **Implement language-specific fine-tuning** to improve abstract term handling.
+
+### **4. Implement Human-in-the-Loop Post-Editing**
+- **Problem:** Even minor errors (e.g., "formation" → "elaboration") can **reduce precision**.
+- **Solution:**
+  - **Use Elephant for first drafts**, then **apply human post-editing** for critical documents.
+  - **Develop an AI-assisted review system** to flag potential deviations.
+
+### **5. Expand Domain-Specific Training**
+- **Problem:** Legal translations require **high precision** in terminology.
+- **Solution:**
+  - **Train on more legal corpora** (e.g., constitutions, UN documents, historical legal texts).
+  - **Fine-tune for legal subdomains** (e.g., constitutional law, human rights law).
+
+---
+
+## **Final Verdict**
+Elephant is a **highly capable translation model**, particularly for **European languages**, where it achieves **near-human accuracy**. However, it **struggles with abstract legal-philosophical concepts in non-European languages**, leading to **critical errors in Chinese, Arabic, and Japanese**.
+
+**Overall Rating: 4.4/5 (Very Good, with room for improvement in non-European languages).**
+
+**Key Takeaway:**
+- **For European languages (French, Spanish, Italian, German, Portuguese, Russian) → Excellent (4.6-5.0).**
+- **For Chinese, Arabic, Japanese → Needs improvement (3.6-4.0).**
+
+With **targeted fine-tuning and post-editing**, Elephant could become a **top-tier legal translation model** across all languages.

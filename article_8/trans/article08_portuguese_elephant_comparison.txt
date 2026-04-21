@@ -1,0 +1,120 @@
+Here’s a detailed evaluation of the **LLM translation** compared to the **canonical original** of Article 8, based on the four criteria:
+
+---
+
+### **1. Fidelity (Accuracy to Original Meaning)**
+**Score: 7/10**
+**Justification:**
+- **Strengths**:
+  - The LLM translation captures the core idea: that punishments must be "strictly and obviously necessary" and that no one can be punished without a pre-existing law.
+  - "Estrita e evidentemente necessárias" (original) ↔ "estritamente e evidentemente necessárias" (LLM) is nearly identical.
+  - "Lei aprovada e promulgada antes da commissionamento do delito" aligns with the original’s requirement of a law passed before the offense.
+
+- **Weaknesses**:
+  - **"Deverá prever punições"** (LLM) vs. **"só deve estabelecer penas"** (original):
+    - The original uses "deve estabelecer" (must establish), which is a stronger, more imperative phrasing. The LLM’s "deverá prever" (shall provide) is slightly softer and introduces "prever" (to foresee/predict), which is not in the original.
+    - "Punições" (LLM) vs. "penas" (original): While both mean "punishments," "penas" is the more traditional legal term in Portuguese, especially in constitutional texts.
+  - **"Commissionamento do delito"** (LLM) is incorrect. The correct term is **"cometimento do delito"** (commission of the offense). "Commissionamento" is not a standard legal term in Portuguese.
+  - **"Legalment infrigida em virtude de uma lei"** (LLM) vs. **"legalmente aplicada"** (original):
+    - The LLM adds "em virtude de" (by virtue of), which is redundant and not in the original.
+    - "Infrigida" (inflicted) is not wrong but is less common than "aplicada" (applied) in this context.
+
+**Overall Assessment**: The LLM translation is mostly faithful but introduces minor deviations in terminology and phrasing that slightly dilute precision.
+
+**Recommendations**:
+- Replace "deverá prever punições" with "só deve estabelecer penas."
+- Correct "commissionamento do delito" to "cometimento do delito."
+- Remove "em virtude de" and use "legalmente aplicada" for consistency with the original.
+
+---
+
+### **2. Language Comprehension (Naturalness and Grammar)**
+**Score: 6/10**
+**Justification:**
+- **Strengths**:
+  - The sentence structure is grammatically correct and flows naturally in Portuguese.
+  - "Estritamente e evidentemente necessárias" is idiomatic and well-phrased.
+
+- **Weaknesses**:
+  - **"Commissionamento do delito"**: As noted, this is incorrect and sounds unnatural. The correct term ("cometimento") is widely used in legal Portuguese.
+  - **"Legalment infrigida"**: While not grammatically wrong, "infrigida" is less common than "aplicada" in this context. The latter is more natural in legal texts.
+  - **"Deverá prever punições"**: The use of "deverá" (future tense) instead of "deve" (present tense) is less forceful and slightly awkward in a constitutional provision, which typically uses the present tense for timeless principles.
+
+**Overall Assessment**: The translation is grammatically correct but includes unnatural or non-standard legal terms that reduce its fluency.
+
+**Recommendations**:
+- Use "cometimento do delito" instead of "commissionamento do delito."
+- Replace "infrigida" with "aplicada."
+- Use "deve" instead of "deverá" for a more authoritative tone.
+
+---
+
+### **3. Intent Preservation (Legal-Philosophical Nuances)**
+**Score: 7/10**
+**Justification:**
+- **Strengths**:
+  - The LLM translation preserves the two key principles of the original:
+    1. **Proportionality**: Punishments must be strictly and obviously necessary.
+    2. **Legality**: No punishment without a pre-existing law (nullum crimen, nulla poena sine lege).
+  - The requirement that the law be "aprovada e promulgada" (passed and promulgated) is correctly included.
+
+- **Weaknesses**:
+  - **"Deverá prever punições"**: The original’s "só deve estabelecer" is more emphatic and aligns better with the principle of *strict necessity* (a cornerstone of liberal legal theory). The LLM’s phrasing is slightly weaker.
+  - **"Legalment infrigida"**: The original’s "legalmente aplicada" better reflects the idea that punishment must be *applied* under the law, not just *inflicted* (which could imply arbitrary imposition).
+  - The incorrect term "commissionamento do delito" could create ambiguity about whether the law must predate the *act* (cometimento) or the *charging* (comissionamento, which doesn’t exist).
+
+**Overall Assessment**: The translation mostly preserves the intent but weakens the force of the original’s language and introduces minor ambiguities.
+
+**Recommendations**:
+- Restore the original’s stronger phrasing: "só deve estabelecer penas estrita e evidentemente necessárias."
+- Use "legalmente aplicada" to emphasize the procedural legality of punishment.
+
+---
+
+### **4. Novel/Incorrect Deviations**
+Here are the deviations from the original:
+1. **"Deverá prever punições"** instead of **"só deve estabelecer penas"**:
+   - Adds "prever" (to foresee), which is not in the original.
+   - Uses "punições" instead of "penas" (less traditional legal term).
+   - Uses future tense ("deverá") instead of present tense ("deve").
+
+2. **"Commissionamento do delito"** instead of **"cometimento da infração"**:
+   - Incorrect legal term ("commissionamento" is not standard).
+   - "Delito" is correct but "infração" (original) is more general and may be preferred in constitutional texts.
+
+3. **"Legalment infrigida em virtude de uma lei"** instead of **"legalmente aplicada"**:
+   - Adds "em virtude de" (redundant).
+   - Uses "infrigida" (less common) instead of "aplicada."
+
+4. Omission of **"e ninguém pode ser punido senão sob uma lei"**:
+   - The LLM’s "ninguém sofrerá punição senão se ela for" is not incorrect but is less concise than the original’s "ninguém pode ser punido senão sob uma lei." The original’s phrasing is more direct and authoritative.
+
+---
+
+### **Overall Assessment of Translation Quality**
+The LLM translation is **good but not excellent**. It captures the general meaning of the original but introduces several deviations that reduce its precision, naturalness, and legal authority. The most critical errors are:
+1. The incorrect term "commissionamento do delito."
+2. The weaker phrasing "deverá prever punições" instead of "só deve estabelecer penas."
+3. The addition of redundant or non-standard terms ("em virtude de," "infrigida").
+
+**Final Score**: **6.5/10** (average of the three criteria scores).
+
+---
+
+### **Recommendations for Improvement**
+1. **Terminology**:
+   - Replace "commissionamento do delito" with "cometimento da infração" or "cometimento do delito."
+   - Use "penas" instead of "punições."
+   - Use "aplicada" instead of "infrigida."
+
+2. **Phrasing**:
+   - Restore the original’s stronger phrasing: "A lei só deve estabelecer penas estrita e evidentemente necessárias."
+   - Use "legalmente aplicada" instead of "legalmente infrigida em virtude de uma lei."
+
+3. **Grammar/Tense**:
+   - Use present tense ("deve") instead of future tense ("deverá") for timeless principles.
+
+**Improved Translation**:
+*"A lei só deve estabelecer penas estrita e evidentemente necessárias, e ninguém pode ser punido senão sob uma lei estabelecida e promulgada antes do cometimento da infração e legalmente aplicada."*
+
+This version is **more faithful, natural, and authoritative** than the LLM’s attempt.

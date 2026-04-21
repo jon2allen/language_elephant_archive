@@ -1,0 +1,91 @@
+Here’s a detailed evaluation of the **LLM translation** compared to the **canonical (original) Russian version** of **Article 9** of the **Universal Declaration of Human Rights (UDHR)**.
+
+---
+
+### **1. Fidelity (Accuracy to Original Meaning)**
+**Score: 8/10**
+**Justification:**
+- The LLM translation generally captures the core meaning but introduces minor deviations:
+  - **"Так как каждый человек предполагается невиновным"** → **"Поскольку все лица считаются невиновными"**
+    - The original uses **"предполагается"** (is presumed), which is a stronger legal term than **"считаются"** (are considered). The LLM’s choice weakens the legal nuance.
+  - **"в случае необходимости его задержания"** → **"если арест будет считаться необходимым"**
+    - The original uses **"задержание"** (detention/arrest), while the LLM uses **"арест"** (arrest), which is narrower in Russian legal terminology (arrest implies a formal charge, whereas detention is broader).
+  - **"всякая излишняя строгость"** → **"вся жестокость"**
+    - The original refers to **"излишняя строгость"** (excessive harshness), while the LLM uses **"жестокость"** (cruelty), which is stronger and less precise.
+  - **"должна строго пресекаться законом"** → **"должна быть строго запрещена законом"**
+    - The original’s **"пресекаться"** (to be suppressed/stopped) is more active than **"запрещена"** (prohibited), which is a static legal term.
+
+**Overall Assessment:**
+The LLM translation is **mostly accurate** but **loses some legal precision** in favor of a more general phrasing.
+
+**Recommendations:**
+- Use **"предполагается невиновным"** instead of **"считаются невиновными"** to match the original’s legal strength.
+- Replace **"арест"** with **"задержание"** for broader applicability.
+- Keep **"излишняя строгость"** instead of **"жестокость"** to avoid overstatement.
+- Use **"пресекаться"** instead of **"запрещена"** for a more dynamic legal tone.
+
+---
+
+### **2. Language Comprehension (Naturalness & Grammar)**
+**Score: 9/10**
+**Justification:**
+- The LLM translation is **grammatically correct** and **idiomatic** in modern Russian.
+- **"Поскольку"** (since) is a natural alternative to **"так как"** (as).
+- **"должна быть строго запрещена"** is a **correct and natural** legal phrasing.
+- The only minor issue is **"обеспечения личности задержанного"** (securing the detainee’s person), which is slightly less fluid than the original’s **"обеспечения личной безопасности"** (ensuring personal safety).
+
+**Overall Assessment:**
+The translation is **highly natural and grammatically sound**, though a few phrasings could be refined for better flow.
+
+**Recommendations:**
+- Consider **"обеспечения безопасности задержанного"** (ensuring the detainee’s safety) for smoother readability.
+
+---
+
+### **3. Intent Preservation (Legal-Philosophical Nuance)**
+**Score: 7/10**
+**Justification:**
+- The LLM translation **preserves the general intent** (presumption of innocence, prohibition of unnecessary harshness) but **loses some legal depth**:
+  - **"Предполагается невиновным"** (presumed innocent) is a **cornerstone of criminal law**, whereas **"считаются невиновными"** (are considered innocent) is a weaker assertion.
+  - **"Излишняя строгость"** (excessive harshness) is a **legal term of art**, while **"жестокость"** (cruelty) is a **moral/ethical term** with a different connotation.
+  - **"Пресекаться законом"** (to be suppressed by law) implies **active enforcement**, whereas **"запрещена законом"** (prohibited by law) is more **passive**.
+
+**Overall Assessment:**
+The LLM translation **captures the spirit** but **weakens the legal precision** of the original.
+
+**Recommendations:**
+- Restore **"предполагается невиновным"** for legal accuracy.
+- Keep **"излишняя строгость"** to maintain the original’s nuance.
+- Use **"пресекаться"** instead of **"запрещена"** for a more active legal tone.
+
+---
+
+### **4. Novel/Incorrect Deviations**
+| **Original** | **LLM Translation** | **Issue** |
+|-------------|---------------------|-----------|
+| **"предполагается невиновным"** | **"считаются невиновными"** | Weakens legal presumption |
+| **"задержание"** | **"арест"** | Narrows the scope (arrest vs. detention) |
+| **"излишняя строгость"** | **"жестокость"** | Changes meaning (harshness → cruelty) |
+| **"пресекаться законом"** | **"запрещена законом"** | Passive vs. active enforcement |
+
+**Overall Assessment:**
+The LLM translation **introduces minor but meaningful deviations** that slightly alter the legal tone and precision.
+
+---
+
+### **Final Evaluation & Recommendations**
+**Overall Score: 8/10** (Good, but not perfect)
+- **Strengths:** Natural, grammatically correct, and mostly faithful to the original.
+- **Weaknesses:** Loses some legal precision, introduces minor semantic shifts.
+
+**Recommended Improved Translation:**
+> *"Поскольку каждый человек предполагается невиновным, пока его виновность не будет установлена в предусмотренном законом порядке, в случае необходимости его задержания всякая излишняя строгость, не требуемая для обеспечения безопасности задержанного, должна строго пресекаться законом."*
+
+**Key Improvements:**
+1. Restored **"предполагается невиновным"** (legal presumption).
+2. Used **"задержание"** (detention) instead of **"арест"** (arrest).
+3. Kept **"излишняя строгость"** (excessive harshness) instead of **"жестокость"** (cruelty).
+4. Used **"пресекаться"** (suppress) instead of **"запрещена"** (prohibit).
+5. Adjusted **"обеспечения безопасности задержанного"** for smoother phrasing.
+
+This version **better aligns with the original’s legal intent** while remaining natural in Russian.

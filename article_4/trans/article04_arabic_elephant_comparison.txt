@@ -1,0 +1,102 @@
+Here’s a detailed evaluation of the **LLM translation** compared to the **canonical original** across the specified criteria:
+
+---
+
+### **1. Fidelity (Accuracy to Original Meaning)**
+**Score: 8/10**
+**Justification:**
+- The LLM translation generally captures the core meaning of the original but introduces minor deviations in phrasing and structure.
+  - **Original:** *"الحرية هي أن يفعل الإنسان كل ما لا يضر بالغير"* (Liberty is that a person does everything that does not harm others).
+  - **LLM:** *"الحرية تتألف من الحُرية في فعل كل ما لا يُؤذي الآخرين"* (Liberty consists of the freedom to do everything that does not harm others).
+    - The LLM’s use of *"تتألف من"* (consists of) is slightly less direct than the original’s *"هي"* (is), but the meaning remains intact.
+  - **Original:** *"ممارسة حقوق الإنسان الطبيعية لا حدود لها إلا تلك التي تضمن..."* (The exercise of natural rights has no limits except those that ensure...).
+  - **LLM:** *"تمارس الحقوق الطبيعية لكل فرد دون قيود، ما لم تكن تلك القيود مُكفَّلةً..."* (Natural rights are exercised without restrictions, unless those restrictions are guaranteed...).
+    - The LLM’s phrasing is more verbose and shifts the emphasis slightly (e.g., *"دون قيود"* = "without restrictions" vs. the original’s *"لا حدود لها"* = "has no limits"). The legal nuance of "limits" (*حدود*) is preserved but framed differently.
+  - **Original:** *"ولا يمكن أن تحدد هذه الحدود إلا بالقانون"* (These limits can only be determined by law).
+  - **LLM:** *"وتحدد هذه القيود القانون فحسب"* (These limits are determined by law only).
+    - The LLM’s *"فحسب"* (only) is a valid alternative to *"إلا"* (except), but the original’s passive construction (*"لا يمكن أن تحدد"*) is more authoritative.
+
+**Novel/Incorrect Deviations:**
+- The LLM adds *"لكل فرد"* (for each individual), which is not in the original but aligns with the broader intent.
+- The phrase *"ما لم تكن تلك القيود مُكفَّلةً"* (unless those restrictions are guaranteed) introduces a subtle shift: the original emphasizes *limits ensuring rights for others*, while the LLM frames it as *restrictions being guaranteed*. This is not incorrect but slightly alters the emphasis.
+
+**Overall Assessment:**
+The LLM translation is largely faithful but could be more precise in mirroring the original’s phrasing and legal tone.
+
+**Recommendations:**
+- Replace *"تتألف من"* with *"هي"* for directness.
+- Use *"لا حدود لها"* instead of *"دون قيود"* to match the original’s legal phrasing.
+- Revert to the original’s passive construction (*"لا يمكن أن تحدد إلا بالقانون"*) for stronger legal authority.
+
+---
+
+### **2. Language Comprehension (Naturalness & Grammar)**
+**Score: 9/10**
+**Justification:**
+- The LLM translation is grammatically correct and idiomatic, with only minor stylistic quirks.
+  - *"الحرية في فعل كل ما لا يُؤذي الآخرين"* is natural and clear.
+  - *"تمارس الحقوق الطبيعية دون قيود"* is grammatically sound but slightly less elegant than the original’s *"ممارسة حقوق الإنسان الطبيعية لا حدود لها"*.
+  - *"مُكفَّلةً"* (guaranteed) is a valid choice but less common in legal texts than *"تضمن"* (ensure).
+  - *"القانون فحسب"* is a natural alternative to *"إلا بالقانون"*.
+
+**Novel/Incorrect Deviations:**
+- The phrase *"الحرية تتألف من الحُرية في..."* is redundant (literally: "Liberty consists of the freedom to..."). The original avoids this repetition.
+- *"ما لم تكن تلك القيود مُكفَّلةً"* is grammatically correct but less fluid than the original’s *"إلا تلك التي تضمن"*.
+
+**Overall Assessment:**
+The translation reads naturally in Arabic, though it could be more concise and stylistically aligned with legal texts.
+
+**Recommendations:**
+- Remove redundancy: *"الحرية هي فعل كل ما لا يُؤذي الآخرين"* (Liberty is doing everything that does not harm others).
+- Replace *"مُكفَّلةً"* with *"تضمن"* for legal precision.
+
+---
+
+### **3. Intent Preservation (Legal-Philosophical Nuance)**
+**Score: 7/10**
+**Justification:**
+- The LLM preserves the core intent (liberty as freedom from harm, limits determined by law) but weakens some legal-philosophical nuances.
+  - **Original:** *"ممارسة حقوق الإنسان الطبيعية لا حدود لها إلا تلك التي تضمن..."* (The exercise of natural rights has no limits except those that *ensure*...).
+    - The original emphasizes *positive assurance* (guaranteeing others' rights).
+  - **LLM:** *"تمارس الحقوق الطبيعية دون قيود، ما لم تكن تلك القيود مُكفَّلةً..."* (Natural rights are exercised without restrictions, unless those restrictions are *guaranteed*...).
+    - The LLM’s phrasing focuses on *restrictions being guaranteed*, which is a subtle shift from the original’s *limits ensuring rights*. This could imply a more passive role for the law.
+  - **Original:** *"ولا يمكن أن تحدد هذه الحدود إلا بالقانون"* (These limits can *only* be determined by law).
+    - The original’s passive voice (*"لا يمكن أن تحدد"*) conveys legal authority more strongly than the LLM’s active voice (*"تحدد القانون فحسب"*).
+
+**Novel/Incorrect Deviations:**
+- The LLM’s framing of *"restrictions being guaranteed"* (vs. the original’s *"limits ensuring rights"*) could be misinterpreted as the law *validating* restrictions rather than *establishing* them.
+- The active voice in *"تحدد القانون"* (the law determines) is less forceful than the original’s passive construction.
+
+**Overall Assessment:**
+The translation captures the intent but dilutes some legal-philosophical precision. The original’s emphasis on *limits as a means to ensure others' rights* is slightly obscured.
+
+**Recommendations:**
+- Restore the original’s emphasis on *ensuring others' rights*: *"إلا تلك التي تضمن للأعضاء الآخرين..."*.
+- Use the passive voice for legal authority: *"ولا يمكن أن تحدد إلا بالقانون"*.
+
+---
+
+### **4. Novel/Incorrect Deviations (Summary)**
+1. **Additions:**
+   - *"لكل فرد"* (for each individual) – not in the original but contextually valid.
+   - *"تتألف من"* (consists of) – redundant phrasing.
+2. **Omissions:**
+   - The original’s passive voice (*"لا يمكن أن تحدد"*) is replaced with active voice (*"تحدد القانون فحسب"*).
+3. **Meaning Shifts:**
+   - *"مُكفَّلةً"* (guaranteed) instead of *"تضمن"* (ensure) – alters the emphasis from *limits ensuring rights* to *restrictions being guaranteed*.
+   - *"دون قيود"* (without restrictions) instead of *"لا حدود لها"* (has no limits) – less precise legally.
+
+---
+
+### **Overall Translation Quality: 8/10**
+The LLM translation is **highly competent** but falls short of the original’s legal precision and conciseness. It is **grammatically sound and mostly faithful** but could improve in:
+- **Fidelity:** Mirroring the original’s phrasing more closely (e.g., *"لا حدود لها"* instead of *"دون قيود"*).
+- **Legal Nuance:** Preserving the passive voice and emphasis on *ensuring rights* (e.g., *"تضمن"* instead of *"مُكفَّلةً"*).
+- **Conciseness:** Avoiding redundancy (e.g., *"الحرية تتألف من الحُرية في..."*).
+
+### **Final Recommendations:**
+1. **For Legal Texts:** Use the canonical original or a hybrid of the two:
+   > *"الحرية هي فعل كل ما لا يضر بالغير. هكذا، فإن ممارسة الحقوق الطبيعية لا حدود لها إلا تلك التي تضمن للأعضاء الآخرين في المجتمع الاستمتاع لتلك الحقوق نفسها. ولا يمكن أن تحدد هذه الحدود إلا بالقانون."*
+2. **For General Use:** The LLM translation is acceptable but should be edited for conciseness and legal precision (e.g., remove *"تتألف من"*, restore *"تضمن"*).
+
+This ensures **fidelity, legal authority, and natural Arabic flow**.

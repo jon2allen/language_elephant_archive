@@ -1,0 +1,102 @@
+Here’s a detailed evaluation of the LLM translation compared to the canonical Arabic version of **Article 5** based on the specified criteria:
+
+---
+
+### **1. Fidelity (Accuracy of Meaning)**
+**Score: 7/10**
+**Justification:**
+- The LLM translation captures the core idea but loses some precision in the first clause.
+  - **Original:** "للقانون حق منع الأفعال الضارة بالمجتمع وحدها" ("The law has the right to prohibit only actions harmful to society").
+  - **LLM:** "القانون لا يمكن أن يمنع إلا ما هو ممنوع بموجبه" ("The law cannot prohibit except what is forbidden by it").
+    - The LLM version omits the critical qualifier **"alone" (وحدها)**, which restricts the law’s prohibitive power to *only* actions harmful to society. This weakens the philosophical emphasis on harm as the sole justification for prohibition.
+    - The LLM’s phrasing ("ما هو ممنوع بموجبه") is circular ("what is forbidden by it") and less direct than the original’s active construction ("الأفعال الضارة").
+- The second part aligns better:
+  - **Original:** "لا يمكن منع ما لم يحظره القانون، ولا يمكن إجبار أحد على فعل ما لم يأمر به القانون" ("Nothing may be prevented which is not forbidden by law, and no one may be forced to do anything not provided for by law").
+  - **LLM:** "ولا يمكن إجبار أحد على فعل شيء غير منصوص عليه في القانون" ("and no one may be forced to do anything not stipulated in the law").
+    - The LLM’s "غير منصوص عليه" ("not stipulated") is a valid synonym for "لم يأمر به" ("not provided for"), though slightly more formal.
+
+**Overall Assessment:**
+The LLM translation is *mostly* faithful but dilutes the first clause’s specificity and philosophical weight. The second clause is accurate but could be more elegant.
+
+**Recommendation:**
+- Restore the original’s active voice and qualifier: **"القانون لا يحق له منع إلا الأفعال الضارة بالمجتمع وحدها"** ("The law may prohibit only actions harmful to society").
+- Replace "ممنوع بموجبه" with a clearer phrase like "الأفعال الضارة بالمجتمع" to avoid circularity.
+
+---
+
+### **2. Language Comprehension (Naturalness/Grammar)**
+**Score: 8/10**
+**Justification:**
+- **Grammar:** The LLM translation is grammatically correct but slightly awkward in places.
+  - "ما هو ممنوع بموجبه" is grammatically sound but unnatural; Arabic typically avoids such passive constructions in legal texts. The original’s "الأفعال الضارة" is more direct.
+  - "غير منصوص عليه" is technically correct but less common than the original’s "لم يأمر به" in legal Arabic.
+- **Idiomaticity:** The LLM version lacks the rhetorical flow of the original. For example:
+  - **Original:** Uses parallel structure ("لا يمكن منع... ولا يمكن إجبار") for emphasis.
+  - **LLM:** Maintains parallelism but with less elegance ("لا يمكن أن يمنع... ولا يمكن إجبار").
+- **Formality:** Both are appropriately formal, but the original’s phrasing is more authoritative.
+
+**Overall Assessment:**
+The LLM translation is understandable and grammatically sound but feels less polished than the original. Legal Arabic often prioritizes conciseness and active voice, which the original achieves better.
+
+**Recommendation:**
+- Simplify the first clause: **"القانون يمنع فقط الأفعال الضارة بالمجتمع"** ("The law prohibits only actions harmful to society").
+- Use "لم يحظره القانون" instead of "غير منصوص عليه" for consistency with the original’s second clause.
+
+---
+
+### **3. Intent Preservation (Legal-Philosophical Nuances)**
+**Score: 6/10**
+**Justification:**
+- The original’s intent is rooted in **liberal legal theory** (e.g., Montesquieu, Beccaria), emphasizing:
+  1. **Harm as the sole justification for prohibition** (first clause).
+  2. **Legal certainty**: No prohibition or coercion without explicit legal basis (second clause).
+- The LLM translation weakens these nuances:
+  - **First Clause:** By omitting "وحدها" ("alone") and using "ممنوع بموجبه" ("forbidden by it"), it loses the original’s emphasis on *harm* as the *exclusive* criterion. The LLM version could imply that the law prohibits whatever it arbitrarily deems forbidden, which contradicts the original’s intent.
+  - **Second Clause:** Preserves the intent but with less force. The original’s "ما لم يأمر به القانون" ("what the law does not provide for") is stronger than "غير منصوص عليه" ("not stipulated"), as it explicitly ties coercion to the law’s commands.
+
+**Overall Assessment:**
+The LLM translation captures the *literal* meaning but fails to preserve the *philosophical* weight of the original. The first clause’s deviation is particularly problematic for legal interpretation.
+
+**Recommendation:**
+- Reinstate the original’s phrasing for the first clause to emphasize harm as the sole criterion.
+- Use "ما لم يحظره/يأمر به القانون" in both clauses for consistency and clarity.
+
+---
+
+### **4. Novel/Incorrect Deviations**
+**Additions/Omissions:**
+1. **Omission of "وحدها" ("alone")**:
+   - Original: "الأفعال الضارة بالمجتمع وحدها" ("only actions harmful to society").
+   - LLM: No equivalent. This weakens the restriction on the law’s prohibitive power.
+2. **Circular phrasing in first clause**:
+   - Original: Active voice ("للقانون حق منع الأفعال الضارة").
+   - LLM: Passive voice ("ما هو ممنوع بموجبه" – "what is forbidden by it"). This introduces redundancy and obscures the harm-based justification.
+3. **Substitution of "غير منصوص عليه" for "لم يأمر به القانون"**:
+   - While synonymous, the original’s phrasing is more direct and aligns better with the parallel structure of the article.
+
+**Divergent Meanings:**
+- The LLM’s first clause could be misinterpreted as: *"The law cannot prohibit except what it has already forbidden"* (a tautology), whereas the original means: *"The law may prohibit only what is harmful to society"* (a substantive principle).
+
+---
+
+### **Overall Translation Quality: 7/10**
+The LLM translation is **serviceable** but **not ideal** for legal contexts. It preserves the general meaning but loses critical nuances, particularly in the first clause. The language is grammatically correct but less elegant and authoritative than the original.
+
+### **Recommendations for Improvement:**
+1. **First Clause:**
+   - Original: "للقانون حق منع الأفعال الضارة بالمجتمع وحدها"
+   - Improved LLM: **"القانون لا يحق له منع إلا الأفعال الضارة بالمجتمع وحدها"**
+     (Literally: "The law may prohibit only actions harmful to society alone.")
+2. **Second Clause:**
+   - Original: "ولا يمكن إجبار أحد على فعل ما لم يأمر به القانون"
+   - Improved LLM: **"ولا يجوز إجبار أحد على فعل ما لم يأمر به القانون"**
+     (Literally: "And it is not permissible to force anyone to do what the law does not command.")
+   - *Note:* "لا يجوز" is a stronger legal term than "لا يمكن" for prohibitions.
+3. **Parallel Structure:**
+   - Ensure both clauses use similar phrasing (e.g., "ما لم يحظره/يأمر به القانون").
+
+### **Final Improved Translation:**
+**"لا يحق للقانون منع إلا الأفعال الضارة بالمجتمع وحدها، ولا يجوز منع ما لم يحظره القانون، ولا يجوز إجبار أحد على فعل ما لم يأمر به القانون."**
+*(The law may prohibit only actions harmful to society alone. Nothing may be prevented which is not forbidden by law, and no one may be forced to do anything not provided for by law.)*
+
+This version restores fidelity, intent, and elegance while adhering to legal Arabic conventions.

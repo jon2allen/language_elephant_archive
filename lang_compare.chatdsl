@@ -1,0 +1,464 @@
+# Language Translation Comparison Script
+# This script reads English Article N, translates it to all target languages,
+# then has a judge model compare each translation against the canonical version.
+# 
+# Usage: /script lang_compare.chatdsl x=N y=MODEL_TRANSLATOR z=MODEL_JUDGE
+#   Where N is 1-10, MODEL_TRANSLATOR is the translator model, MODEL_JUDGE is the judge model
+#   If parameters are not provided, defaults are used (x=1, y=llama1, z=mistral_1)
+
+# Configuration - Parameter handling
+# Map x, y, z parameters to meaningful variable names
+# x = article number (1-10)
+# y = translator model
+# z = judge model
+
+if ${x} != "" then set article_num = ${x}
+if ${article_num} == "" then set article_num = 1
+
+if ${y} != "" then set model_translator = ${y}
+if ${model_translator} == "" then set model_translator = "llama1"
+
+if ${z} != "" then set model_judge = ${z}
+if ${model_judge} == "" then set model_judge = "mistral_1"
+
+# Handle file naming: article01-09 vs article10
+if ${article_num} == "10" then set article_file_num = "10"
+if ${article_num} != "10" then set article_file_num = "0${article_num}"
+
+# Set paths
+set base_path = "article_${article_num}"
+set english_file = "${base_path}/english/article${article_file_num}_english.txt"
+set trans_dir = "${base_path}/trans"
+
+# Load the English source text
+/file ${english_file}
+set english_text = "{file}"
+
+echo "Loaded English Article ${article_num} from ${english_file}"
+echo "Translation target: all 9 non-English languages"
+
+# ============================================================
+# FRENCH
+# ============================================================
+set lang = "french"
+/model ${model_translator}
+/multiline
+Translate the following text from English to ${lang}. Be precise and maintain the original meaning:
+${english_text}
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+/filebank1 ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+ 
+# Compare with canonical
+/model ${model_judge}
+/filebank2 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/multiline
+Act as a language and legal expert. Compare the following two ${lang} translations of Article ${article_num}:
+
+ORIGINAL (canonical):
+{filebank2}
+
+LLM TRANSLATION:
+{filebank1}
+
+Evaluate on these criteria:
+1. **Fidelity (0-10)**: Does the LLM translation accurately convey the exact meaning of the original?
+2. **Language Comprehension (0-10)**: Is the translation natural, idiomatic, and grammatically correct in ${lang}?
+3. **Intent Preservation (0-10)**: Does it preserve the legal-philosophical intent and nuances?
+4. **Novel/Incorrect Deviations**: List any additions, omissions, or meanings that diverge from the original.
+
+Provide for each criterion:
+- Score
+- Justification with specific examples
+- Overall assessment of translation quality
+- Recommendations for improvement
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}_comparison.txt
+
+# ============================================================
+# SPANISH
+# ============================================================
+set lang = "spanish"
+/model ${model_translator}
+/multiline
+Translate the following text from English to ${lang}. Be precise and maintain the original meaning:
+${english_text}
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+/filebank1 ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+/model ${model_judge}
+/filebank2 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/multiline
+Act as a language and legal expert. Compare the following two ${lang} translations of Article ${article_num}:
+
+ORIGINAL (canonical):
+{filebank2}
+
+LLM TRANSLATION:
+{filebank1}
+
+Evaluate on these criteria:
+1. **Fidelity (0-10)**: Does the LLM translation accurately convey the exact meaning of the original?
+2. **Language Comprehension (0-10)**: Is the translation natural, idiomatic, and grammatically correct in ${lang}?
+3. **Intent Preservation (0-10)**: Does it preserve the legal-philosophical intent and nuances?
+4. **Novel/Incorrect Deviations**: List any additions, omissions, or meanings that diverge from the original.
+
+Provide for each criterion:
+- Score
+- Justification with specific examples
+- Overall assessment of translation quality
+- Recommendations for improvement
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}_comparison.txt
+
+# ============================================================
+# GERMAN
+# ============================================================
+set lang = "german"
+/model ${model_translator}
+/multiline
+Translate the following text from English to ${lang}. Be precise and maintain the original meaning:
+${english_text}
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+/filebank1 ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+
+/model ${model_judge}
+/filebank2 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/multiline
+Act as a language and legal expert. Compare the following two ${lang} translations of Article ${article_num}:
+
+ORIGINAL (canonical):
+{filebank2}
+
+LLM TRANSLATION:
+{filebank1}
+
+Evaluate on these criteria:
+1. **Fidelity (0-10)**: Does the LLM translation accurately convey the exact meaning of the original?
+2. **Language Comprehension (0-10)**: Is the translation natural, idiomatic, and grammatically correct in ${lang}?
+3. **Intent Preservation (0-10)**: Does it preserve the legal-philosophical intent and nuances?
+4. **Novel/Incorrect Deviations**: List any additions, omissions, or meanings that diverge from the original.
+
+Provide for each criterion:
+- Score
+- Justification with specific examples
+- Overall assessment of translation quality
+- Recommendations for improvement
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}_comparison.txt
+
+# ============================================================
+# CHINESE
+# ============================================================
+set lang = "chinese"
+/model ${model_translator}
+/multiline
+Translate the following text from English to ${lang}. Be precise and maintain the original meaning:
+${english_text}
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+/filebank1 ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+
+/model ${model_judge}
+/filebank2 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/multiline
+Act as a language and legal expert. Compare the following two ${lang} translations of Article ${article_num}:
+
+ORIGINAL (canonical):
+{filebank2}
+
+LLM TRANSLATION:
+{filebank1}
+
+Evaluate on these criteria:
+1. **Fidelity (0-10)**: Does the LLM translation accurately convey the exact meaning of the original?
+2. **Language Comprehension (0-10)**: Is the translation natural, idiomatic, and grammatically correct in ${lang}?
+3. **Intent Preservation (0-10)**: Does it preserve the legal-philosophical intent and nuances?
+4. **Novel/Incorrect Deviations**: List any additions, omissions, or meanings that diverge from the original.
+
+Provide for each criterion:
+- Score
+- Justification with specific examples
+- Overall assessment of translation quality
+- Recommendations for improvement
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}_comparison.txt
+
+# ============================================================
+# RUSSIAN
+# ============================================================
+set lang = "russian"
+/model ${model_translator}
+/multiline
+Translate the following text from English to ${lang}. Be precise and maintain the original meaning:
+${english_text}
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+/filebank1 ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+
+/model ${model_judge}
+/filebank2 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/multiline
+Act as a language and legal expert. Compare the following two ${lang} translations of Article ${article_num}:
+
+ORIGINAL (canonical):
+{filebank2}
+
+LLM TRANSLATION:
+{filebank1}
+
+Evaluate on these criteria:
+1. **Fidelity (0-10)**: Does the LLM translation accurately convey the exact meaning of the original?
+2. **Language Comprehension (0-10)**: Is the translation natural, idiomatic, and grammatically correct in ${lang}?
+3. **Intent Preservation (0-10)**: Does it preserve the legal-philosophical intent and nuances?
+4. **Novel/Incorrect Deviations**: List any additions, omissions, or meanings that diverge from the original.
+
+Provide for each criterion:
+- Score
+- Justification with specific examples
+- Overall assessment of translation quality
+- Recommendations for improvement
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}_comparison.txt
+
+# ============================================================
+# ARABIC
+# ============================================================
+set lang = "arabic"
+/model ${model_translator}
+/multiline
+Translate the following text from English to ${lang}. Be precise and maintain the original meaning:
+${english_text}
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+/filebank1 ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+
+/model ${model_judge}
+/filebank2 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/multiline
+Act as a language and legal expert. Compare the following two ${lang} translations of Article ${article_num}:
+
+ORIGINAL (canonical):
+{filebank2}
+
+LLM TRANSLATION:
+{filebank1}
+
+Evaluate on these criteria:
+1. **Fidelity (0-10)**: Does the LLM translation accurately convey the exact meaning of the original?
+2. **Language Comprehension (0-10)**: Is the translation natural, idiomatic, and grammatically correct in ${lang}?
+3. **Intent Preservation (0-10)**: Does it preserve the legal-philosophical intent and nuances?
+4. **Novel/Incorrect Deviations**: List any additions, omissions, or meanings that diverge from the original.
+
+Provide for each criterion:
+- Score
+- Justification with specific examples
+- Overall assessment of translation quality
+- Recommendations for improvement
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}_comparison.txt
+
+# ============================================================
+# ITALIAN
+# ============================================================
+set lang = "italian"
+/model ${model_translator}
+/multiline
+Translate the following text from English to ${lang}. Be precise and maintain the original meaning:
+${english_text}
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+/filebank1 ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+
+/model ${model_judge}
+/filebank2 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/multiline
+Act as a language and legal expert. Compare the following two ${lang} translations of Article ${article_num}:
+
+ORIGINAL (canonical):
+{filebank2}
+
+LLM TRANSLATION:
+{filebank1}
+
+Evaluate on these criteria:
+1. **Fidelity (0-10)**: Does the LLM translation accurately convey the exact meaning of the original?
+2. **Language Comprehension (0-10)**: Is the translation natural, idiomatic, and grammatically correct in ${lang}?
+3. **Intent Preservation (0-10)**: Does it preserve the legal-philosophical intent and nuances?
+4. **Novel/Incorrect Deviations**: List any additions, omissions, or meanings that diverge from the original.
+
+Provide for each criterion:
+- Score
+- Justification with specific examples
+- Overall assessment of translation quality
+- Recommendations for improvement
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}_comparison.txt
+
+# ============================================================
+# PORTUGUESE
+# ============================================================
+set lang = "portuguese"
+/model ${model_translator}
+/multiline
+Translate the following text from English to ${lang}. Be precise and maintain the original meaning:
+${english_text}
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+/filebank1 ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+
+/model ${model_judge}
+/filebank2 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/multiline
+Act as a language and legal expert. Compare the following two ${lang} translations of Article ${article_num}:
+
+ORIGINAL (canonical):
+{filebank2}
+
+LLM TRANSLATION:
+{filebank1}
+
+Evaluate on these criteria:
+1. **Fidelity (0-10)**: Does the LLM translation accurately convey the exact meaning of the original?
+2. **Language Comprehension (0-10)**: Is the translation natural, idiomatic, and grammatically correct in ${lang}?
+3. **Intent Preservation (0-10)**: Does it preserve the legal-philosophical intent and nuances?
+4. **Novel/Incorrect Deviations**: List any additions, omissions, or meanings that diverge from the original.
+
+Provide for each criterion:
+- Score
+- Justification with specific examples
+- Overall assessment of translation quality
+- Recommendations for improvement
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}_comparison.txt
+
+# ============================================================
+# JAPANESE
+# ============================================================
+set lang = "japanese"
+/model ${model_translator}
+/multiline
+Translate the following text from English to ${lang}. Be precise and maintain the original meaning:
+${english_text}
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+/filebank1 ${trans_dir}/article${article_file_num}_${lang}_${model_translator}.txt
+
+/model ${model_judge}
+/filebank2 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/multiline
+Act as a language and legal expert. Compare the following two ${lang} translations of Article ${article_num}:
+
+ORIGINAL (canonical):
+{filebank2}
+
+LLM TRANSLATION:
+{filebank1}
+
+Evaluate on these criteria:
+1. **Fidelity (0-10)**: Does the LLM translation accurately convey the exact meaning of the original?
+2. **Language Comprehension (0-10)**: Is the translation natural, idiomatic, and grammatically correct in ${lang}?
+3. **Intent Preservation (0-10)**: Does it preserve the legal-philosophical intent and nuances?
+4. **Novel/Incorrect Deviations**: List any additions, omissions, or meanings that diverge from the original.
+
+Provide for each criterion:
+- Score
+- Justification with specific examples
+- Overall assessment of translation quality
+- Recommendations for improvement
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_${lang}_${model_translator}_comparison.txt
+
+# ============================================================
+# FINAL SUMMARY - 
+# use variables    
+# ============================================================
+
+# load up comparisons
+set lang = "japanese"
+/filebank4 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/setvar japanese_compare {filebank4}
+
+set lang = "french"
+/filebank4 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/setvar french_compare {filebank4}
+
+set lang = "spanish"
+/filebank4 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/setvar spanish_compare {filebank4}
+
+set lang = "german"
+/filebank4 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/setvar german_compare {filebank4}
+
+set lang = "chinese"
+/filebank4 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/setvar chinese_compare {filebank4}
+
+set lang = "russian"
+/filebank4 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/setvar russian_compare {filebank4}
+
+set lang = "arabic"
+/filebank4 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/setvar arabic_compare {filebank4}
+
+set lang = "italian"
+/filebank4 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/setvar italian_compare {filebank4}
+
+set lang = "portuguese"
+/filebank4 ${base_path}/${lang}/article${article_file_num}_${lang}.txt
+/setvar portuguese_compare {filebank4}
+
+
+/model ${model_judge}
+/multiline
+Create a comprehensive summary report comparing ${model_translator} translations against canonical versions for Article ${article_num} across all 9 languages.
+
+For each language (french, spanish, german, chinese, russian, arabic, italian, portuguese, japanese), provide:
+1. Overall fidelity score (average of all criteria)
+2. Most significant deviations found
+3. General assessment of ${model_translator}  translation quality for that language
+4. Common patterns of error across languages
+
+Then provide:
+- Overall quality rating for ${model_translator} as a translation model
+- Strengths and weaknesses observed
+- Languages where it performed best and worst
+- Recommendations for improving translation quality
+
+Here are the comparisons done earlier
+${japanese_compare}
+${french_compare}
+${spanish_compare}
+${german_compare}
+${chinese_compare}
+${russian_compare}
+${arabic_compare}
+${italian_compare}
+${portuguese_compare}
+;;
+/multiline
+/save ${trans_dir}/article${article_file_num}_summary_${model_translator}_comparison.txt
+
+echo "All translations and comparisons complete! Results saved in ${trans_dir}/"

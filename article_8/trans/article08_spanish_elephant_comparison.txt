@@ -1,0 +1,114 @@
+Here’s a detailed evaluation of the LLM translation compared to the canonical Spanish version of **Article 8** based on the specified criteria:
+
+---
+
+### **1. Fidelity (Accuracy to Original Meaning)**
+**Score: 8/10**
+**Justification:**
+- The LLM translation captures the core meaning but introduces minor deviations:
+  - **"La ley no debe establecer sino penas..."** → **"La ley deberá prever únicamente los castigos..."**
+    - The original uses **"debe establecer"** (ought to establish), which is a normative/deontic statement (a moral-legal obligation). The LLM’s **"deberá prever"** (shall provide) is more prescriptive (a legal mandate), which is not incorrect but shifts the tone slightly.
+    - **"penas"** (punishments) is more precise than **"castigos"** (punishments/chastisements), which can sound more general or even moralistic.
+  - **"estricta y evidentemente necesarias"** → **"estrictamente y obviamente necesarios"**
+    - **"evidentemente"** (evidently) is stronger than **"obviamente"** (obviously), which may dilute the original’s emphasis on *manifest* necessity.
+  - **"ninguno puede ser castigado sino en virtud de una ley..."** → **"nadie deberá sufrir castigo a menos que sea legalmente impuesto en virtud de una ley..."**
+    - The LLM adds **"legalmente impuesto"** (legally imposed), which is redundant since the original already implies this via **"legalmente aplicada"** (legally applied). The LLM’s phrasing is more explicit but slightly verbose.
+    - **"sufrir castigo"** (suffer punishment) is less common in legal Spanish than **"ser castigado"** (be punished), though not incorrect.
+
+**Overall Assessment:**
+The LLM translation is largely faithful but loses some precision in legal terminology and nuance. The deviations are minor but could affect the text’s interpretive weight in a legal context.
+
+**Recommendations:**
+- Replace **"deberá prever"** with **"no debe establecer sino"** to match the original’s normative tone.
+- Use **"penas"** instead of **"castigos"** for legal consistency.
+- Keep **"evidentemente"** instead of **"obviamente"** to preserve the original’s emphasis.
+- Remove **"legalmente impuesto"** to avoid redundancy.
+
+---
+
+### **2. Language Comprehension (Naturalness & Grammar)**
+**Score: 9/10**
+**Justification:**
+- The LLM translation is grammatically correct and idiomatic, with only minor stylistic issues:
+  - **"La ley deberá prever únicamente los castigos estrictamente y obviamente necesarios"**
+    - The phrasing is natural, though **"estrictamente y obviamente necesarios"** could be reordered as **"necesarios estricta y obviamente"** for smoother flow (matching the original).
+  - **"a menos que sea legalmente impuesto"** is correct but slightly awkward; **"salvo que sea legalmente aplicada"** (as in the original) is more fluid.
+  - **"sufrir castigo"** is grammatically fine but less common in legal texts than **"ser castigado"**.
+
+**Overall Assessment:**
+The translation reads naturally and is grammatically sound. The deviations from the original are stylistic rather than errors.
+
+**Recommendations:**
+- Reorder adjectives to **"necesarios estricta y obviamente"** for better flow.
+- Replace **"a menos que sea legalmente impuesto"** with **"salvo que sea legalmente aplicada"** to match the original’s conciseness.
+
+---
+
+### **3. Intent Preservation (Legal-Philosophical Nuance)**
+**Score: 7/10**
+**Justification:**
+- The LLM translation preserves the **principle of legality** (no punishment without prior law) and **proportionality** (punishments must be necessary), but nuances are weakened:
+  - **"La ley no debe establecer sino penas estricta y evidentemente necesarias"**
+    - The original’s **"no debe establecer sino"** (ought not establish except) is a stronger prohibition than the LLM’s **"deberá prever únicamente"** (shall provide only). The former reflects a **moral-legal limit** on state power, while the latter sounds like a procedural requirement.
+    - **"estricta y evidentemente necesarias"** conveys that necessity must be **both strict and self-evident**, a key Enlightenment-era legal principle. The LLM’s **"estrictamente y obviamente necesarios"** is close but slightly dilutes the original’s rigor.
+  - **"legalmente aplicada"** (legally applied) is more precise than **"legalmente impuesto"** (legally imposed), as the original emphasizes **application** (i.e., due process), not just imposition.
+
+**Overall Assessment:**
+The LLM captures the intent but softens the original’s **philosophical strictness**. The canonical version reflects a **Beccarian/Enlightenment** view of law (e.g., *On Crimes and Punishments*), where punishments are morally constrained. The LLM’s version is more procedural.
+
+**Recommendations:**
+- Restore the original’s **deontic tone** ("no debe establecer sino") to emphasize moral limits on state power.
+- Keep **"evidentemente"** to preserve the original’s emphasis on **manifest necessity**.
+
+---
+
+### **4. Novel/Incorrect Deviations**
+**Additions:**
+1. **"legalmente impuesto"** (legally imposed) – Redundant; the original already covers this with **"legalmente aplicada"**.
+2. **"sufrir castigo"** (suffer punishment) – Less precise than **"ser castigado"** (be punished).
+
+**Omissions:**
+1. **"establecida y promulgada"** (established and promulgated) → The LLM omits **"establecida"** (established), which is important for legal certainty (a law must be **enacted** and **published**).
+2. **"con anterioridad al delito"** (prior to the offense) is correct, but the original’s **"antes del delito"** is more concise.
+
+**Divergences:**
+1. **"debe establecer"** → **"deberá prever"**: Shifts from a **normative** to a **prescriptive** tone.
+2. **"penas"** → **"castigos"**: Less legally precise.
+3. **"evidentemente"** → **"obviamente"**: Weakens the original’s emphasis on **self-evident necessity**.
+
+---
+
+### **Overall Assessment of Translation Quality**
+The LLM translation is **good but not excellent**. It is:
+- **85% accurate** in meaning (minor deviations in tone and precision).
+- **90% natural** in Spanish (grammatically sound but slightly verbose).
+- **70% faithful to intent** (loses some philosophical rigor).
+
+**Strengths:**
+- Clear and readable.
+- Preserves the core legal principles.
+
+**Weaknesses:**
+- Overuses **"deberá"** (shall) instead of the original’s **normative "debe"** (ought).
+- Omits **"establecida"** (established), which is critical for legal certainty.
+- Replaces **"penas"** with the less precise **"castigos"**.
+
+---
+
+### **Final Recommendations for Improvement**
+1. **Restore the original’s normative tone:**
+   - **"La ley no debe establecer sino penas..."** (instead of "deberá prever únicamente").
+2. **Use precise legal terminology:**
+   - **"penas"** instead of **"castigos"**.
+   - **"evidentemente necesarias"** instead of **"obviamente necesarios"**.
+3. **Include all key terms:**
+   - Add **"establecida"** to **"promulgada"** (established and promulgated).
+4. **Simplify redundant phrases:**
+   - Remove **"legalmente impuesto"** (covered by **"legalmente aplicada"**).
+5. **Match the original’s conciseness:**
+   - **"antes del delito"** instead of **"con anterioridad al delito"**.
+
+**Suggested Improved Translation:**
+*"La ley no debe establecer sino penas estricta y evidentemente necesarias, y nadie podrá ser castigado sino en virtud de una ley establecida y promulgada antes del delito, y legalmente aplicada."*
+
+This version is **more faithful to the original’s meaning, tone, and legal precision**.

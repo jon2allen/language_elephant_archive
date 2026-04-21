@@ -1,0 +1,157 @@
+Here’s a detailed evaluation of the **two Arabic translations** of the original text (inspired by **Article 10 of the French Declaration of the Rights of Man and of the Citizen**):
+
+---
+
+### **Original Text (English)**
+*"No one may be disturbed on account of his opinions, even religious ones, as long as the manifestation of such opinions does not interfere with the established Law and Order."*
+
+---
+
+### **Canonical Arabic Translation (الترجمة القانونية الرسمية)**
+*"لا يجوز مضايقة أي شخص بسبب آرائه، بما في ذلك آراؤه الدينية، شريطة أن ممارسة هذه الآراء لا تخل بالنظام العام الذي يحدده القانون."*
+
+### **LLM Arabic Translation (ترجمة النموذج اللغوي)**
+*"لا يجوز المساس بأي شخص بسبب آرائه، حتى الدينية منها، طالما أن إظهار هذه الآراء لا يتعارض مع النظام العام والقانون."*
+
+---
+
+## **Evaluation Criteria**
+
+---
+
+### **1. Fidelity (0-10)**
+**Score: 8.5/10**
+**Justification:**
+- **Core meaning preserved**:
+  - *"لا يجوز مضايقة أي شخص"* (canonical) → *"لا يجوز المساس بأي شخص"* (LLM)
+    - Both mean "no one may be disturbed," but:
+      - *"مضايقة"* ("harassment") is **stronger and more legally precise** than *"المساس"* ("touching/affecting"), which is **broader and less forceful**.
+      - The original English ("disturbed") is **closer to "مضايقة"** in legal tone.
+  - *"بما في ذلك آراؤه الدينية"* → *"حتى الدينية منها"*
+    - **Equivalent in meaning**, but *"بما في ذلك"* ("including") is **more formal and explicit**, while *"حتى الدينية منها"* ("even the religious ones") is **more concise but slightly less precise**.
+  - *"شريطة أن ممارسة هذه الآراء لا تخل بالنظام العام الذي يحدده القانون"* → *"طالما أن إظهار هذه الآراء لا يتعارض مع النظام العام والقانون"*
+    - **Key deviations**:
+      - *"ممارسة هذه الآراء"* ("manifestation/practice of opinions") → *"إظهار هذه الآراء"* ("expression/display of opinions")
+        - *"ممارسة"* is **broader** (includes actions, rituals, or public practice), while *"إظهار"* is **narrower** (focuses on outward expression).
+        - The original ("manifestation") is **closer to "ممارسة"** in legal contexts (e.g., religious practices).
+      - *"لا تخل بالنظام العام الذي يحدده القانون"* ("does not disrupt public order **as defined by law**") → *"لا يتعارض مع النظام العام والقانون"* ("does not conflict with public order **and the law**")
+        - The canonical version **explicitly ties public order to the law** ("الذي يحدده القانون"), while the LLM version **separates "النظام العام" and "القانون"** ("public order and the law"), which:
+          - **Weakens the legal precision** (public order is **defined by law**, not separate from it).
+          - **Risks misinterpretation** (e.g., "القانون" could be read as **any law**, not necessarily the **legal framework defining public order**).
+
+**Overall Assessment:**
+- **High fidelity**, but **three notable deviations**:
+  1. *"مضايقة"* → *"المساس"* (weakens legal force).
+  2. *"ممارسة"* → *"إظهار"* (narrows the scope of "manifestation").
+  3. Separation of *"النظام العام"* and *"القانون"* (reduces precision).
+
+---
+
+### **2. Language Comprehension (0-10)**
+**Score: 9.5/10**
+**Justification:**
+- **Grammar and syntax**:
+  - *"لا يجوز المساس بأي شخص بسبب آرائه، حتى الدينية منها، طالما أن إظهار هذه الآراء لا يتعارض مع النظام العام والقانون."*
+    - **Grammatically correct** and **natural in modern Arabic**.
+    - *"طالما أن"* ("as long as") is **idiomatic and smooth**.
+    - *"حتى الدينية منها"* is **concise and elegant** (though slightly less formal than *"بما في ذلك"*).
+- **Minor awkwardness**:
+  - *"المساس بأي شخص"* is **less common in legal texts** than *"مضايقة أي شخص"* (which is the **standard phrasing** in human rights documents).
+
+**Overall Assessment:**
+- **Near-perfect naturalness and idiomaticity**.
+- **More concise and fluid** than the canonical version, but **slightly less legally precise**.
+
+---
+
+### **3. Intent Preservation (0-10)**
+**Score: 8/10**
+**Justification:**
+- **Legal-philosophical intent**:
+  - **Freedom of opinion**: *"لا يجوز المساس بأي شخص بسبب آرائه"* = no disturbance for opinions.
+  - **Religious opinions included**: *"حتى الدينية منها"* = even religious opinions.
+  - **Limitation clause**: *"طالما أن إظهار هذه الآراء لا يتعارض مع النظام العام والقانون"* = manifestation must not disrupt public order and law.
+- **Deviations that weaken intent**:
+  1. *"مضايقة"* (canonical) vs. *"المساس"* (LLM):
+     - *"مضايقة"* ("harassment") is **stronger and more legally forceful**.
+     - *"المساس"* ("affecting") is **broader and vaguer**, which **dilutes the legal prohibition**.
+  2. *"ممارسة"* vs. *"إظهار"*:
+     - *"ممارسة"* ("manifestation/practice") is **broader** and **more aligned with legal contexts** (e.g., religious practices).
+     - *"إظهار"* ("expression") is **narrower** and **less inclusive** (e.g., excludes actions or rituals).
+  3. *"النظام العام الذي يحدده القانون"* vs. *"النظام العام والقانون"*:
+     - The canonical version **explicitly ties public order to the law**, while the LLM version **separates them**, which:
+       - **Weakens the legal precision** (public order is **defined by law**, not independent of it).
+       - **Risks misinterpretation** (e.g., "القانون" could be read as **any law**, not the **legal framework for public order**).
+
+**Overall Assessment:**
+- **Intent is largely preserved**, but **three key weaknesses**:
+  1. *"مضايقة"* → *"المساس"* (weakens legal force).
+  2. *"ممارسة"* → *"إظهار"* (narrows the scope of "manifestation").
+  3. Separation of *"النظام العام"* and *"القانون"* (reduces precision).
+
+---
+
+### **4. Novel/Incorrect Deviations**
+| **Deviation** | **Type** | **Impact** | **Severity** |
+|---------------------------------------------|---------------------|------------------------------------------------------------------------------------------------|--------------|
+| *"مضايقة"* → *"المساس"* | **Lexical** | *"المساس"* is **broader and less legally forceful** than *"مضايقة."* | **Medium** |
+| *"بما في ذلك"* → *"حتى الدينية منها"* | **Stylistic** | *"حتى الدينية منها"* is **more concise** but **slightly less formal.** | **Low** |
+| *"ممارسة"* → *"إظهار"* | **Semantic** | *"إظهار"* is **narrower** (focuses on expression, not practice). | **Medium** |
+| *"الذي يحدده القانون"* → *"والقانون"* | **Semantic** | Separates *"النظام العام"* and *"القانون"*, **weakening precision.** | **High** |
+
+**Most Significant Deviations:**
+1. *"الذي يحدده القانون"* → *"والقانون"*:
+   - **Legal risk**: The original ties public order to the law ("established Law and Order"), which is **best captured by "النظام العام الذي يحدده القانون"** ("public order as defined by law").
+   - The LLM version **separates "النظام العام" and "القانون"**, which:
+     - **Weakens the legal precision** (public order is **defined by law**, not independent of it).
+     - **Risks misinterpretation** (e.g., "القانون" could be read as **any law**, not the **legal framework for public order**).
+2. *"مضايقة"* → *"المساس"*:
+   - **Legal risk**: *"مضايقة"* ("harassment") is **stronger and more legally precise** than *"المساس"* ("affecting"), which **weakens the legal force of the prohibition**.
+3. *"ممارسة"* → *"إظهار"*:
+   - **Legal risk**: *"ممارسة"* ("manifestation/practice") is **broader and more inclusive** (e.g., includes religious rituals), while *"إظهار"* ("expression") is **narrower**.
+
+---
+
+## **Overall Assessment of Translation Quality**
+| **Criterion** | **Score** | **Assessment** |
+|--------------------------|-----------|------------------------------------------------------------------------------------------------|
+| **Fidelity** | 8.5/10 | **High fidelity**, but **three key deviations** weaken precision. |
+| **Language Comprehension** | 9.5/10 | **Flawless grammar and idiomaticity**; more concise than canonical. |
+| **Intent Preservation** | 8/10 | **Intent largely preserved**, but **legal precision and force weakened**. |
+| **Deviations** | **1 High, 2 Medium** | Separation of *"النظام العام"* and *"القانون"* (high), *"مضايقة"* → *"المساس"* (medium), and *"ممارسة"* → *"إظهار"* (medium) are the **most problematic**. |
+
+**Final Rating: 8.7/10**
+- **Excellent translation**, **suitable for general use**, but **not ideal for strict legal contexts**.
+- **Three major weaknesses**:
+  1. Separation of *"النظام العام"* and *"القانون"* (reduces precision).
+  2. *"مضايقة"* → *"المساس"* (weakens legal force).
+  3. *"ممارسة"* → *"إظهار"* (narrows the scope of "manifestation").
+
+---
+
+## **Recommendations for Improvement**
+1. **Restore "مضايقة" for stronger legal force**:
+   - *"لا يجوز مضايقة أي شخص بسبب آرائه..."*
+   - **Reason**: *"مضايقة"* ("harassment") is **more legally precise** and **aligns better with human rights terminology**.
+
+2. **Restore "ممارسة" for broader scope**:
+   - *"شريطة أن ممارسة هذه الآراء لا تخل بالنظام العام..."*
+   - **Reason**: *"ممارسة"* ("manifestation/practice") is **broader and more inclusive** (e.g., includes religious rituals or public actions).
+
+3. **Reunite "النظام العام" and "القانون" for precision**:
+   - *"شريطة أن ممارسة هذه الآراء لا تخل بالنظام العام الذي يحدده القانون."*
+   - **Reason**: *"الذي يحدده القانون"* ("as defined by law") **explicitly ties public order to the law**, which is **critical for legal precision**.
+
+**Suggested Improved LLM Translation:**
+*"لا يجوز مضايقة أي شخص بسبب آرائه، بما في ذلك آراؤه الدينية، شريطة أن ممارسة هذه الآراء لا تخل بالنظام العام الذي يحدده القانون."*
+
+---
+
+## **Conclusion**
+- The LLM translation is **fluent, concise, and idiomatic**, but **three key deviations weaken its legal precision and force**:
+  1. *"مضايقة"* → *"المساس"* (weakens legal force).
+  2. *"ممارسة"* → *"إظهار"* (narrows the scope of "manifestation").
+  3. Separation of *"النظام العام"* and *"القانون"* (reduces precision).
+- **For general use**, it is **excellent**.
+- **For legal/official documents**, the **recommended improvements** should be applied to **enhance precision and legal force**.
+- **Overall**, this is a **strong translation** that **prioritizes conciseness** but **sacrifices some legal nuance**.
